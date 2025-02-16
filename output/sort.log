@@ -1,4 +1,4 @@
-Name: 汕头综合, URL: http://120.77.205.62:8087/rtp/239.253.43.30:5146$组播源, Date: None, Delay: 192 ms, Speed: 0.00 M/s, Resolution: None
+Name: 汕头综合, URL: http://120.77.205.62:8087/rtp/239.253.43.30:5146$组播源, Date: None, Delay: 206 ms, Speed: 0.00 M/s, Resolution: None
 Name: 汕头综合, URL: http://113.65.9.224:4013/rtp/239.253.43.30:5146$广东电信组播源, Date: 2024-12-28, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: 汕头综合, URL: http://14.19.168.64:4022/rtp/239.253.43.30:5146$广东电信组播源, Date: 2024-12-06, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: 汕头综合, URL: http://61.145.208.25:9090/rtp/239.253.43.30:5146$广东电信组播源, Date: 2024-12-29, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
@@ -13,9 +13,9 @@ Name: 汕头综合, URL: http://14.112.86.85:4022/rtp/239.253.43.30:5146$广东�
 Name: 汕头综合, URL: http://14.145.225.183:8888/rtp/239.253.43.30:5146$广东电信组播源, Date: 2024-12-21, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: 汕头综合, URL: http://119.134.111.179:8888/rtp/239.253.43.30:5146$广东电信组播源, Date: 2024-12-29, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: 汕头综合, URL: http://113.75.181.88:2086/rtp/239.253.43.30:5146$广东电信组播源, Date: 2025-01-05, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
+Name: 汕头综合, URL: http://113.101.245.67:9988/udp/239.253.43.45:5146$订阅源, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: 汕头综合, URL: http://14.19.151.0:9900/udp/239.77.1.130:5146$订阅源, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
-Name: 汕头综合, URL: http://113.101.245.67:9988/udp/239.77.1.130:5146$订阅源, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
-Name: 汕头经济, URL: http://120.77.205.62:8087/rtp/239.253.43.43:5146$组播源, Date: None, Delay: 192 ms, Speed: 0.00 M/s, Resolution: None
+Name: 汕头经济, URL: http://120.77.205.62:8087/rtp/239.253.43.43:5146$组播源, Date: None, Delay: 206 ms, Speed: 0.00 M/s, Resolution: None
 Name: 汕头经济, URL: http://113.65.9.224:4013/rtp/239.253.43.43:5146$广东电信组播源, Date: 2024-12-28, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: 汕头经济, URL: http://14.19.168.64:4022/rtp/239.253.43.43:5146$广东电信组播源, Date: 2024-12-06, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: 汕头经济, URL: http://61.145.208.25:9090/rtp/239.253.43.43:5146$广东电信组播源, Date: 2024-12-29, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
@@ -30,9 +30,9 @@ Name: 汕头经济, URL: http://14.112.86.85:4022/rtp/239.253.43.43:5146$广东�
 Name: 汕头经济, URL: http://14.145.225.183:8888/rtp/239.253.43.43:5146$广东电信组播源, Date: 2024-12-21, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: 汕头经济, URL: http://119.134.111.179:8888/rtp/239.253.43.43:5146$广东电信组播源, Date: 2024-12-29, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: 汕头经济, URL: http://113.75.181.88:2086/rtp/239.253.43.43:5146$广东电信组播源, Date: 2025-01-05, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
+Name: 汕头经济, URL: http://113.101.245.67:9988/udp/239.77.1.131:5146$订阅源, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: 汕头经济, URL: http://14.19.151.0:9900/udp/239.77.1.131:5146$订阅源, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
-Name: 汕头经济, URL: http://113.101.245.67:9988/udp/239.253.43.46:5146$订阅源, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
-Name: 汕头文旅, URL: http://120.77.205.62:8087/rtp/239.253.43.44:5146$组播源, Date: None, Delay: 192 ms, Speed: 0.00 M/s, Resolution: None
+Name: 汕头文旅, URL: http://120.77.205.62:8087/rtp/239.253.43.44:5146$组播源, Date: None, Delay: 206 ms, Speed: 0.00 M/s, Resolution: None
 Name: 汕头文旅, URL: http://113.65.9.224:4013/rtp/239.253.43.44:5146$广东电信组播源, Date: 2024-12-28, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: 汕头文旅, URL: http://14.19.168.64:4022/rtp/239.253.43.44:5146$广东电信组播源, Date: 2024-12-06, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: 汕头文旅, URL: http://61.145.208.25:9090/rtp/239.253.43.44:5146$广东电信组播源, Date: 2024-12-29, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
@@ -47,12 +47,15 @@ Name: 汕头文旅, URL: http://14.112.86.85:4022/rtp/239.253.43.44:5146$广东�
 Name: 汕头文旅, URL: http://14.145.225.183:8888/rtp/239.253.43.44:5146$广东电信组播源, Date: 2024-12-21, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: 汕头文旅, URL: http://119.134.111.179:8888/rtp/239.253.43.44:5146$广东电信组播源, Date: 2024-12-29, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: 汕头文旅, URL: http://113.75.181.88:2086/rtp/239.253.43.44:5146$广东电信组播源, Date: 2025-01-05, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
+Name: 汕头文旅, URL: http://113.101.245.67:9988/udp/239.253.43.47:5146$订阅源, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: 汕头文旅, URL: http://14.19.151.0:9900/udp/239.77.1.132:5146$订阅源, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
-Name: 凤凰卫视, URL: https://k44991.kylintv.tv/live/pxna_iphone.m3u8$订阅源, Date: None, Delay: 32 ms, Speed: 26.12 M/s, Resolution: 1280x720
+Name: 凤凰卫视, URL: https://k44991.kylintv.tv/live/pxna_iphone.m3u8$订阅源, Date: None, Delay: 35 ms, Speed: 24.11 M/s, Resolution: 1280x720
 Name: 凤凰卫视, URL: http://cdn.132.us.kg/live/fhzw/stream.m3u8$订阅源, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: 凤凰卫视, URL: p3p://167.114.175.6:55331/602c73500002f4d29c90fa1270f21160$订阅源, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: 凤凰卫视, URL: http://php.jdshipin.com:8880/smt.php?id=phoenixtv_hd$订阅源, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: 凤凰卫视, URL: http://119.32.12.32:2901/udp/224.1.100.3:11111$订阅源, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
+Name: 凤凰卫视, URL: https://haoyunlai.serv00.net/Smartv-1.php?id=phoenixtv_hd$订阅源, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
+Name: 凤凰卫视, URL: http://qjrhc.jydjd.top:2911/udp/224.1.100.3:11111$订阅源, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: 凤凰卫视, URL: http://113.64.147.49:8081/hls/37/index.m3u8$订阅源, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: 凤凰卫视, URL: http://113.64.147.42:8081/hls/37/index.m3u8$订阅源, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: 凤凰卫视, URL: http://113.64.147.41:8081/hls/37/index.m3u8$订阅源, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
@@ -67,8 +70,6 @@ Name: 凤凰卫视, URL: http://113.64.147.237:8081/hls/37/index.m3u8$订阅源,
 Name: 凤凰卫视, URL: http://113.64.147.40:8081/hls/37/index.m3u8$订阅源, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: 凤凰卫视, URL: http://113.64.147.188:8081/hls/37/index.m3u8$订阅源, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: 凤凰卫视, URL: http://113.64.147.170:8081/hls/37/index.m3u8$订阅源, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
-Name: 凤凰卫视, URL: https://haoyunlai.serv00.net/Smartv-1.php?id=phoenixtv_hd$订阅源, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
-Name: 凤凰卫视, URL: http://qjrhc.jydjd.top:2911/udp/224.1.100.3:11111$订阅源, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: 无线新闻, URL: https://pull-f5-spe.ixigua.com/yeslivetv.com/446133069-816601364/index.m3u8$订阅源, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: 无线新闻, URL: http://aktv.top/AKTV/live/aktv2/null-1/AKTV.m3u8$订阅源, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: 无线新闻, URL: https://edge6a.v2h-cdn.com/enew/enew.stream/chunklist.m3u8$订阅源, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
