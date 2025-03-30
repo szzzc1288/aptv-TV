@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-03-30 18:11:23,http://120.77.205.62:8087/rtp/239.253.43.30:5146
+2025-03-31 06:22:11,http://120.77.205.62:8087/rtp/239.253.43.30:5146
 
 ☘️广东频道,#genre#
 汕头综合,http://120.77.205.62:8087/rtp/239.253.43.30:5146
@@ -7,7 +7,6 @@
 汕头文旅,http://120.77.205.62:8087/rtp/239.253.43.44:5146
 
 🌊港·澳·台,#genre#
-凤凰卫视,http://php.jdshipin.com:8880/smt.php?id=phoenixtv_hd
 凤凰卫视,https://k44991.kylintv.tv/live/pxna_iphone.m3u8
 凤凰卫视,http://zb.xmzb.xyz/123.php?id=⚽马上oppppp一1
 凤凰卫视,http://218.202.220.2:5000/nn_live.ts?id=NEWSASIA
