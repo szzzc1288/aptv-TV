@@ -1,12 +1,19 @@
 # -*- mode: python ; coding: utf-8 -*-
+import json
+
+with open('version.json') as f:
+    version_data = json.load(f)
+    version = version_data['version']
+    name = version_data['name']
 
 a = Analysis(
-    ['tkinter_ui.py', 'about.py', 'default.py', 'speed.py', 'prefer.py', 'multicast.py', 'hotel.py', 'subscribe.py', 'online_search.py'],
+    ['tkinter_ui.py', 'about.py', 'default.py', 'speed.py', 'prefer.py', 'local.py', 'multicast.py', 'hotel.py', 'subscribe.py', 'online_search.py'],
     pathex=[],
     binaries=[],
     datas=[
         ('../config/config.ini', 'config'),
         ('../config/demo.txt', 'config'),
+        ('../config/local.txt', 'config'),
         ('../config/whitelist.txt', 'config'),
         ('../config/blacklist.txt', 'config'),
         ('../config/subscribe.txt', 'config'),
@@ -14,13 +21,13 @@ a = Analysis(
         ('../updates/hotel/cache.pkl', 'updates/hotel'),
         ('../updates/multicast/multicast_map.json', 'updates/multicast'),
         ('../updates/multicast/cache.pkl', 'updates/multicast'),
-        ('../updates/fofa/fofa_hotel_region_result.pkl', 'updates/fofa'),
-        ('../updates/fofa/fofa_multicast_region_result.pkl', 'updates/fofa'),
+        ('../utils/nginx-rtmp-win32', 'utils/nginx-rtmp-win32'),
         ('../static/images/favicon.ico', 'static/images'),
         ('../static/images/alipay.jpg', 'static/images'),
         ('../static/images/settings_icon.png', 'static/images'),
         ('../static/images/speed_icon.png', 'static/images'),
         ('../static/images/prefer_icon.png', 'static/images'),
+        ('../static/images/local_icon.png', 'static/images'),
         ('../static/images/hotel_icon.png', 'static/images'),
         ('../static/images/multicast_icon.png', 'static/images'),
         ('../static/images/subscribe_icon.png', 'static/images'),
@@ -29,6 +36,7 @@ a = Analysis(
         ('default.py', '.'),
         ('speed.py', '.'),
         ('prefer.py', '.'),
+        ('local.py', '.'),
         ('multicast.py', '.'),
         ('hotel.py', '.'),
         ('subscribe.py', '.'),
@@ -52,7 +60,7 @@ exe = EXE(
     a.binaries,
     a.datas,
     [],
-    name='IPTV-API',
+    name=f'{name}-v{version}',
     debug=True,
     bootloader_ignore_signals=False,
     strip=False,

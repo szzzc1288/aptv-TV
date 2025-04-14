@@ -25,7 +25,8 @@
 
 [中文](./README.md) | English
 
-✨💻[IPTV-Web](https://github.com/Guovin/iptv-web): IPTV live stream management platform, supports online playback and other features, under development...
+🎉💻[IPTV-Web](https://github.com/Guovin/iptv-web): IPTV live stream management platform, supports online playback and
+other features, under development...
 
 - [✅ Features](#features)
 - [🔗 Latest results](#latest-results)
@@ -38,12 +39,22 @@
 - [📖 Detailed Tutorial](./docs/tutorial_en.md)
 - [🗓️ Changelog](./CHANGELOG.md)
 - [❤️ Appreciate](#appreciate)
-- [👀 Follow(Update Subscription + Q&A)](#follow)
+- [👀 Follow the public account](#follow)
 - [📣 Disclaimer](#disclaimer)
 - [⚖️ License](#license)
 
+> [!IMPORTANT]
+> 1. The default data sources, such as subscription sources, come from open-source projects on GitHub and are for
+     demonstration purposes only. They may have stability issues.
+> 2. This project does not guarantee or explain the stability of the interface results.
+> 3. To achieve optimal stability, it is recommended to maintain the data sources yourself.
+
+<details>
+  <summary>Default Data Sources</summary>
+
 📍Subscription sources are from:
 
+- [Guovin/iptv-database](https://github.com/Guovin/iptv-database)
 - [iptv-org/iptv](https://github.com/iptv-org/iptv)
 - [suxuang/myIPTV](https://github.com/suxuang/myIPTV)
 - [kimwang1978/collect-tv-txt](https://github.com/kimwang1978/collect-tv-txt)
@@ -59,9 +70,12 @@
 
 - [fanmingming/live](https://github.com/fanmingming/live)
 
+</details>
+
 ## Features
 
 - ✅ Customize the template to generate the channel you want
+- ✅ Supports RTMP streaming (live/hls) to enhance playback experience
 - ✅ Supports multiple source acquisition methods: local source, multicast source, hotel source, subscription source,
   keyword search
 - ✅ Interface speed verification, obtain delay, speed, resolution, filter invalid interface
@@ -72,36 +86,34 @@
 
 ## Latest results
 
-- Interface source:
+> [!IMPORTANT]\
+> The following addresses may fail to be accessed domestically. It is recommended to prepend a proxy address for use.
+> The public account can reply with `CDN` to obtain it.
+
+### Live Sources
+
+- Default
 
 ```bash
 https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/result.m3u
 ```
 
-```bash
-https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/result.txt
-```
-
-or
+- IPv6
 
 ```bash
-https://cdn.jsdelivr.net/gh/Guovin/iptv-api@gd/output/result.m3u
+https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/ipv6/result.m3u
 ```
+
+- IPv4
 
 ```bash
-https://cdn.jsdelivr.net/gh/Guovin/iptv-api@gd/output/result.txt
+https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/ipv4/result.m3u
 ```
 
-- Data source:
+### VOD source
 
 ```bash
 https://raw.githubusercontent.com/Guovin/iptv-api/gd/source.json
-```
-
-or
-
-```bash
-https://cdn.jsdelivr.net/gh/Guovin/iptv-api@gd/source.json
 ```
 
 ## Config
@@ -112,18 +124,19 @@ https://cdn.jsdelivr.net/gh/Guovin/iptv-api@gd/source.json
 | open_empty_category    | Enable the No Results Channel Category, which will automatically categorize channels without results to the bottom                                                                                                                                                                                                                                                                                                               | False             |
 | open_filter_resolution | Enable resolution filtering, interfaces below the minimum resolution (min_resolution) will be filtered, GUI users need to manually install FFmpeg, the program will automatically call FFmpeg to obtain the interface resolution, it is recommended to enable, although it will increase the time-consuming of the speed measurement stage, but it can more effectively distinguish whether the interface can be played          | True              |
 | open_filter_speed      | Enable speed filtering, interfaces with speed lower than the minimum speed (min_speed) will be filtered                                                                                                                                                                                                                                                                                                                          | True              |
-| open_hotel             | Enable the hotel source function, after closing it all hotel source working modes will be disabled                                                                                                                                                                                                                                                                                                                               | True              |
+| open_hotel             | Enable the hotel source function, after closing it all hotel source working modes will be disabled                                                                                                                                                                                                                                                                                                                               | False             |
 | open_hotel_foodie      | Enable Foodie hotel source work mode                                                                                                                                                                                                                                                                                                                                                                                             | True              |
-| open_hotel_fofa        | Enable FOFA、ZoomEye hotel source work mode                                                                                                                                                                                                                                                                                                                                                                                       | True              |
+| open_hotel_fofa        | Enable FOFA、ZoomEye hotel source work mode                                                                                                                                                                                                                                                                                                                                                                                       | False             |
 | open_keep_all          | Enable retain all search results, retain results with non-template channel names, recommended to be turned on when manually maintaining                                                                                                                                                                                                                                                                                          | False             |
 | open_local             | Enable local source function, will use the data in the template file and the local source file                                                                                                                                                                                                                                                                                                                                   | True              |
 | open_m3u_result        | Enable the conversion to generate m3u file type result links, supporting the display of channel icons                                                                                                                                                                                                                                                                                                                            | True              |
-| open_multicast         | Enable the multicast source function, after disabling it all multicast sources will stop working                                                                                                                                                                                                                                                                                                                                 | True              |
+| open_multicast         | Enable the multicast source function, after disabling it all multicast sources will stop working                                                                                                                                                                                                                                                                                                                                 | False             |
 | open_multicast_foodie  | Enable Foodie multicast source work mode                                                                                                                                                                                                                                                                                                                                                                                         | True              |
-| open_multicast_fofa    | Enable FOFA multicast source work mode                                                                                                                                                                                                                                                                                                                                                                                           | True              |
+| open_multicast_fofa    | Enable FOFA multicast source work mode                                                                                                                                                                                                                                                                                                                                                                                           | False             |
 | open_online_search     | Enable keyword search source feature                                                                                                                                                                                                                                                                                                                                                                                             | False             |
 | open_proxy             | Enable proxy, automatically obtains free available proxies, If there are no updates, this mode can be enabled                                                                                                                                                                                                                                                                                                                    | False             |
 | open_request           | Enable query request, the data is obtained from the network (only for hotel sources and multicast sources)                                                                                                                                                                                                                                                                                                                       | False             |
+| open_rtmp              | Enable RTMP push function, need to install FFmpeg, use local bandwidth to improve the interface playback experience, it is recommended to enable when multiple people use it, it is not recommended to enable for personal use, the workflow does not support this function                                                                                                                                                      | False             |
 | open_service           | Enable page service, used to control whether to start the result page service; if deployed on platforms like Qinglong with dedicated scheduled tasks, the function can be turned off after updates are completed and the task is stopped                                                                                                                                                                                         | True              |
 | open_sort              | Enable the sorting function (response speed, date, resolution)                                                                                                                                                                                                                                                                                                                                                                   | True              |
 | open_subscribe         | Enable subscription source feature                                                                                                                                                                                                                                                                                                                                                                                               | True              |
@@ -133,7 +146,9 @@ https://cdn.jsdelivr.net/gh/Guovin/iptv-api@gd/source.json
 | open_url_info          | Enable to display interface description information, used to control whether to display interface source, resolution, protocol type and other information, the content after the $ symbol, the playback software uses this information to describe the interface, if some players (such as PotPlayer) do not support parsing and cannot play, you can turn it off                                                                | False             |
 | open_use_cache         | Enable the use of local cache data, applicable to the query request failure scenario (only for hotel sources and multicast sources)                                                                                                                                                                                                                                                                                              | True              |
 | open_history           | Enable the use of historical update results (including the interface for template and result files) and merge them into the current update                                                                                                                                                                                                                                                                                       | True              |
+| open_headers           | Enable to use the request header verification information contained in M3U, used for speed measurement and other operations. Note: Only a few players support playing this type of interface with verification information, which is turned off by default                                                                                                                                                                       | False             |
 | app_port               | Page service port, used to control the port number of the page service                                                                                                                                                                                                                                                                                                                                                           | 8000              |
+| cdn_url                | CDN proxy acceleration address, used for accelerated access to subscription sources, channel icons and other resources                                                                                                                                                                                                                                                                                                           |                   |
 | final_file             | Generated result file path                                                                                                                                                                                                                                                                                                                                                                                                       | output/result.txt |
 | hotel_num              | The number of preferred hotel source interfaces in the results                                                                                                                                                                                                                                                                                                                                                                   | 10                |
 | hotel_page_num         | Number of pages to retrieve for hotel regions                                                                                                                                                                                                                                                                                                                                                                                    | 1                 |
@@ -207,17 +222,7 @@ pipenv run ui
 
 ### Docker
 
-- iptv-api (Full version): Higher performance requirements, slower update speed, high stability and success rate. Set
-  open_driver = False to switch to the lite running mode (recommended for hotel sources, multicast sources, and online
-  searches)
-- iptv-api:lite (Condensed version): Lightweight, low performance requirements, fast update speed, stability uncertain (
-  recommend using this version for the subscription source)
-
-It's recommended to try each one and choose the version that suits you
-
 #### 1. Pull the image
-
-- iptv-api
 
 ```bash
 docker pull guovern/iptv-api:latest
@@ -229,30 +234,10 @@ docker pull guovern/iptv-api:latest
 docker pull docker.1ms.run/guovern/iptv-api:latest
 ```
 
-- iptv-api:lite
-
-```bash
-docker pull guovern/iptv-api:lite
-```
-
-🚀 Proxy acceleration (recommended for users in China):
-
-```bash
-docker pull docker.1ms.run/guovern/iptv-api:lite
-```
-
 #### 2. Run the container
-
-- iptv-api
 
 ```bash
 docker run -d -p 8000:8000 guovern/iptv-api
-```
-
-- iptv-api:lite
-
-```bash
-docker run -d -p 8000:8000 guovern/iptv-api:lite
 ```
 
 ##### Mount(Recommended):
@@ -262,42 +247,60 @@ and retrieving updated result files can be directly operated in the host machine
 
 Taking the host path /etc/docker as an example:
 
-- iptv-api
-
 ```bash
 -v /etc/docker/config:/iptv-api/config
 -v /etc/docker/output:/iptv-api/output
 ```
 
-- iptv-api:lite
-
-```bash
--v /etc/docker/config:/iptv-api-lite/config
--v /etc/docker/output:/iptv-api-lite/output
-```
-
 ##### Environment Variables:
 
-- Port
+| Variable    | Description          | Default Value      |
+|:------------|:---------------------|:-------------------|
+| APP_HOST    | Service host address | "http://localhost" |
+| APP_PORT    | Service port         | 8000               |
+| UPDATE_CRON | Scheduled task time  | "0 22,10 * * *"    |
 
-```bash
--e APP_PORT=8000
-```
+#### 3. Update Results
 
-- Scheduled execution time
+| Endpoint  | Description           |
+|:----------|:----------------------|
+| /         | Default endpoint      |
+| /m3u      | m3u format endpoint   |
+| /txt      | txt format endpoint   |
+| /ipv4     | ipv4 default endpoint |
+| /ipv6     | ipv6 default endpoint |
+| /ipv4/txt | ipv4 txt endpoint     |
+| /ipv6/txt | ipv6 txt endpoint     |
+| /ipv4/m3u | ipv4 m3u endpoint     |
+| /ipv6/m3u | ipv6 m3u endpoint     |
+| /content  | Endpoint content      |
+| /log      | Speed test log        |
 
-```bash
--e UPDATE_CRON1="0 22 * * *"
--e UPDATE_CRON2="0 10 * * *"
-```
+- RTMP Streaming:
 
-#### 3. Update results
+> [!NOTE]
+> 1. To stream local video sources, create a `live` or `hls` (recommended) folder in the `config` directory.
+> 2. The `live` folder is used for live streaming interfaces, and the `hls` folder is used for HLS streaming interfaces.
+> 3. Place video files named after the `channel name` into these folders, and the program will automatically stream them
+     to the corresponding channels.
+> 4. Visit http://localhost:8080/stat to view real-time streaming status statistics.
 
-- API address: `ip:8000`
-- m3u api：`ip:8000/m3u`
-- txt api：`ip:8000/txt`
-- API content: `ip:8000/content`
-- Speed test log: `ip:8000/log`
+| Streaming Endpoint | Description                      |
+|:-------------------|:---------------------------------|
+| /live              | live streaming endpoint          |
+| /hls               | hls streaming endpoint           |
+| /live/txt          | live txt streaming endpoint      |
+| /hls/txt           | hls txt streaming endpoint       |
+| /live/m3u          | live m3u streaming endpoint      |
+| /hls/m3u           | hls m3u streaming endpoint       |
+| /live/ipv4/txt     | live ipv4 txt streaming endpoint |
+| /hls/ipv4/txt      | hls ipv4 txt streaming endpoint  |
+| /live/ipv4/m3u     | live ipv4 m3u streaming endpoint |
+| /hls/ipv4/m3u      | hls ipv4 m3u streaming endpoint  |
+| /live/ipv6/txt     | live ipv6 txt streaming endpoint |
+| /hls/ipv6/txt      | hls ipv6 txt streaming endpoint  |
+| /live/ipv6/m3u     | live ipv6 m3u streaming endpoint |
+| /hls/ipv6/m3u      | hls ipv6 m3u streaming endpoint  |
 
 ## Changelog
 
