@@ -117,8 +117,8 @@ Adjust the configuration as needed, here is the default configuration descriptio
      supplementary information, causing playback failure, you can modify the configuration: `open_url_info = False` (
      GUI:
      uncheck display interface information) to disable this feature.
-> 2. If your network supports IPv6, you can modify the configuration: `ipv6_support = True` (GUI: check skip IPv6
-     detection) to skip the support check.
+> 2. If your network supports IPv6, you can modify the configuration: `ipv6_support = True` (GUI: Check
+     `Force assume the current network supports IPv6`) to skip the support check.
 > 3. Enabling keyword search (disabled by default) will significantly increase the update time, not recommended to
      enable.
 
