@@ -1,264 +1,264 @@
 <?xml version="1.0" ?>
-<tv date="20250428110545 +0800">
-	<channel id="无线新闻">
-		<display-name lang="zh">无线新闻</display-name>
-	</channel>
-	<programme channel="无线新闻" start="20250428000000 +0800" stop="20250428003000 +0800">
-		<title lang="zh">深宵新闻报道及运动大本营</title>
-	</programme>
-	<programme channel="无线新闻" start="20250428003000 +0800" stop="20250428010000 +0800">
-		<title lang="zh">深宵新闻报道及三日天气预报</title>
-	</programme>
-	<programme channel="无线新闻" start="20250428010000 +0800" stop="20250428013000 +0800">
-		<title lang="zh">深宵新闻报道及寰宇掠影</title>
-	</programme>
-	<programme channel="无线新闻" start="20250428013000 +0800" stop="20250428020000 +0800">
-		<title lang="zh">深宵新闻报道及探古寻源</title>
-	</programme>
-	<programme channel="无线新闻" start="20250428020000 +0800" stop="20250428023000 +0800">
-		<title lang="zh">深宵新闻报道及三日天气预报</title>
-	</programme>
-	<programme channel="无线新闻" start="20250428023000 +0800" stop="20250428030000 +0800">
-		<title lang="zh">深宵新闻报道及中华掠影</title>
-	</programme>
-	<programme channel="无线新闻" start="20250428030000 +0800" stop="20250428033000 +0800">
-		<title lang="zh">深宵新闻报道</title>
-	</programme>
-	<programme channel="无线新闻" start="20250428033000 +0800" stop="20250428040000 +0800">
-		<title lang="zh">深宵新闻报道</title>
-	</programme>
-	<programme channel="无线新闻" start="20250428040000 +0800" stop="20250428043000 +0800">
-		<title lang="zh">深宵新闻报道及中华掠影</title>
-	</programme>
-	<programme channel="无线新闻" start="20250428043000 +0800" stop="20250428050000 +0800">
-		<title lang="zh">深宵新闻报道及三日天气预报及探古寻源</title>
-	</programme>
-	<programme channel="无线新闻" start="20250428050000 +0800" stop="20250428053000 +0800">
-		<title lang="zh">深宵新闻报道及寰宇掠影</title>
-	</programme>
-	<programme channel="无线新闻" start="20250428053000 +0800" stop="20250428060000 +0800">
-		<title lang="zh">深宵新闻报道及运动大本营</title>
-	</programme>
-	<programme channel="无线新闻" start="20250428060000 +0800" stop="20250428063000 +0800">
-		<title lang="zh">香港早晨</title>
-	</programme>
-	<programme channel="无线新闻" start="20250428063000 +0800" stop="20250428070000 +0800">
-		<title lang="zh">香港早晨</title>
-	</programme>
-	<programme channel="无线新闻" start="20250428070000 +0800" stop="20250428073000 +0800">
-		<title lang="zh">香港早晨</title>
-	</programme>
-	<programme channel="无线新闻" start="20250428073000 +0800" stop="20250428080000 +0800">
-		<title lang="zh">香港早晨及交通消息</title>
-	</programme>
-	<programme channel="无线新闻" start="20250428080000 +0800" stop="20250428083000 +0800">
-		<title lang="zh">香港早晨及交通消息</title>
-	</programme>
-	<programme channel="无线新闻" start="20250428083000 +0800" stop="20250428090000 +0800">
-		<title lang="zh">香港早晨及交通消息</title>
-	</programme>
-	<programme channel="无线新闻" start="20250428090000 +0800" stop="20250428093000 +0800">
-		<title lang="zh">新闻报道及中华掠影</title>
-	</programme>
-	<programme channel="无线新闻" start="20250428093000 +0800" stop="20250428100000 +0800">
-		<title lang="zh">开市第一击及新闻报道及三日天气预报</title>
-	</programme>
-	<programme channel="无线新闻" start="20250428100000 +0800" stop="20250428103000 +0800">
-		<title lang="zh">新闻报道及物畅其流</title>
-	</programme>
-	<programme channel="无线新闻" start="20250428103000 +0800" stop="20250428105500 +0800">
-		<title lang="zh">新闻报道及港楼讲楼</title>
-	</programme>
-	<programme channel="无线新闻" start="20250428105500 +0800" stop="20250428110000 +0800">
-		<title lang="zh">环球新闻档案</title>
-	</programme>
-	<programme channel="无线新闻" start="20250428110000 +0800" stop="20250428113000 +0800">
-		<title lang="zh">新闻报道及新闻档案</title>
-	</programme>
-	<programme channel="无线新闻" start="20250428113000 +0800" stop="20250428120000 +0800">
-		<title lang="zh">新闻报道及三日天气预报及时事通识</title>
-	</programme>
-	<programme channel="无线新闻" start="20250428120000 +0800" stop="20250428123000 +0800">
-		<title lang="zh">午间新闻及物畅其流及港楼讲楼</title>
-	</programme>
-	<programme channel="无线新闻" start="20250428123000 +0800" stop="20250428130000 +0800">
-		<title lang="zh">午间新闻</title>
-	</programme>
-	<programme channel="无线新闻" start="20250428130000 +0800" stop="20250428133000 +0800">
-		<title lang="zh">新闻报道及中华掠影及时事通识</title>
-	</programme>
-	<programme channel="无线新闻" start="20250428133000 +0800" stop="20250428140000 +0800">
-		<title lang="zh">新闻报道及汇丰盛演‧160年的故事及三日天气预报</title>
-	</programme>
-	<programme channel="无线新闻" start="20250428140000 +0800" stop="20250428143000 +0800">
-		<title lang="zh">新闻报道及新闻档案</title>
-	</programme>
-	<programme channel="无线新闻" start="20250428143000 +0800" stop="20250428150000 +0800">
-		<title lang="zh">新闻报道及港楼讲楼</title>
-	</programme>
-	<programme channel="无线新闻" start="20250428150000 +0800" stop="20250428153000 +0800">
-		<title lang="zh">新闻报道及物畅其流及深港沪快讯及环球新闻档案</title>
-	</programme>
-	<programme channel="无线新闻" start="20250428153000 +0800" stop="20250428160000 +0800">
-		<title lang="zh">新闻报道及三日天气预报</title>
-	</programme>
-	<programme channel="无线新闻" start="20250428160000 +0800" stop="20250428163000 +0800">
-		<title lang="zh">新闻报道</title>
-	</programme>
-	<programme channel="无线新闻" start="20250428163000 +0800" stop="20250428170000 +0800">
-		<title lang="zh">新闻报道及中华掠影</title>
-	</programme>
-	<programme channel="无线新闻" start="20250428170000 +0800" stop="20250428173000 +0800">
-		<title lang="zh">新闻报道及港楼讲楼及新闻档案</title>
-	</programme>
-	<programme channel="无线新闻" start="20250428173000 +0800" stop="20250428180000 +0800">
-		<title lang="zh">新闻报道及交通消息及三日天气预报</title>
-	</programme>
-	<programme channel="无线新闻" start="20250428180000 +0800" stop="20250428183000 +0800">
-		<title lang="zh">新闻报道及交通消息及时事通识</title>
-	</programme>
-	<programme channel="无线新闻" start="20250428183000 +0800" stop="20250428190000 +0800">
-		<title lang="zh">新闻报道及港楼讲楼</title>
-	</programme>
-	<programme channel="无线新闻" start="20250428190000 +0800" stop="20250428193000 +0800">
-		<title lang="zh">新闻报道</title>
-	</programme>
-	<programme channel="无线新闻" start="20250428193000 +0800" stop="20250428200000 +0800">
-		<title lang="zh">无线730一小时新闻</title>
-	</programme>
-	<programme channel="无线新闻" start="20250428200000 +0800" stop="20250428202000 +0800">
-		<title lang="zh">时事中国及无线730一小时新闻</title>
-	</programme>
-	<programme channel="无线新闻" start="20250428202000 +0800" stop="20250428203000 +0800">
-		<title lang="zh">天气报告及港楼讲楼</title>
-	</programme>
-	<programme channel="无线新闻" start="20250428203000 +0800" stop="20250428210000 +0800">
-		<title lang="zh">新闻报道及世界观及物畅其流</title>
-	</programme>
-	<programme channel="无线新闻" start="20250428210000 +0800" stop="20250428213000 +0800">
-		<title lang="zh">新闻报道及大国外交及天气报告及新闻档案</title>
-	</programme>
-	<programme channel="无线新闻" start="20250428213000 +0800" stop="20250428214500 +0800">
-		<title lang="zh">时事多面睇</title>
-	</programme>
-	<programme channel="无线新闻" start="20250428214500 +0800" stop="20250428220000 +0800">
-		<title lang="zh">新闻报道及环球新闻档案</title>
-	</programme>
-	<programme channel="无线新闻" start="20250428220000 +0800" stop="20250428223000 +0800">
-		<title lang="zh">新闻报道及大国外交及汇丰盛演‧160年的故事及物畅其流及时事通识</title>
-	</programme>
-	<programme channel="无线新闻" start="20250428223000 +0800" stop="20250428230000 +0800">
-		<title lang="zh">新闻报道及世界观及财经多国度及三日天气预报</title>
-	</programme>
-	<programme channel="无线新闻" start="20250428230000 +0800" stop="20250428233000 +0800">
-		<title lang="zh">晚间新闻及大国外交及港楼讲楼</title>
-	</programme>
-	<programme channel="无线新闻" start="20250428233000 +0800" stop="20250428235900 +0800">
-		<title lang="zh">晚间新闻及时事通识</title>
-	</programme>
+<tv date="20250428221510 +0800">
 	<channel id="汕头综合">
 		<display-name lang="zh">汕头综合</display-name>
 	</channel>
-	<programme channel="汕头综合" start="20250428001500 +0800" stop="20250428010000 +0800">
-		<title lang="zh">县委大院(2)</title>
+	<programme channel="汕头综合" start="20250429001500 +0800" stop="20250429010000 +0800">
+		<title lang="zh">县委大院(3)</title>
 	</programme>
-	<programme channel="汕头综合" start="20250428010000 +0800" stop="20250428042000 +0800">
+	<programme channel="汕头综合" start="20250429010000 +0800" stop="20250429042000 +0800">
 		<title lang="zh">闭台曲1</title>
 	</programme>
-	<programme channel="汕头综合" start="20250428042000 +0800" stop="20250428070000 +0800">
+	<programme channel="汕头综合" start="20250429042000 +0800" stop="20250429070000 +0800">
 		<title lang="zh">闭台曲2</title>
 	</programme>
-	<programme channel="汕头综合" start="20250428070000 +0800" stop="20250428070100 +0800">
+	<programme channel="汕头综合" start="20250429070000 +0800" stop="20250429070100 +0800">
 		<title lang="zh">中华人民共和国国歌</title>
 	</programme>
-	<programme channel="汕头综合" start="20250428070100 +0800" stop="20250428080000 +0800">
+	<programme channel="汕头综合" start="20250429070100 +0800" stop="20250429080000 +0800">
 		<title lang="zh">汕头新闻</title>
 	</programme>
-	<programme channel="汕头综合" start="20250428080000 +0800" stop="20250428083200 +0800">
+	<programme channel="汕头综合" start="20250429080000 +0800" stop="20250429083200 +0800">
 		<title lang="zh">今日视线</title>
 	</programme>
-	<programme channel="汕头综合" start="20250428083200 +0800" stop="20250428091000 +0800">
+	<programme channel="汕头综合" start="20250429083200 +0800" stop="20250429091000 +0800">
 		<title lang="zh">广东卫视新闻</title>
 	</programme>
-	<programme channel="汕头综合" start="20250428091000 +0800" stop="20250428092800 +0800">
-		<title lang="zh">先生郑一标(2)</title>
-	</programme>
-	<programme channel="汕头综合" start="20250428092800 +0800" stop="20250428095000 +0800">
-		<title lang="zh">健康新生活</title>
-	</programme>
-	<programme channel="汕头综合" start="20250428095000 +0800" stop="20250428100500 +0800">
-		<title lang="zh">寻梦泡泡岛3(7)</title>
-	</programme>
-	<programme channel="汕头综合" start="20250428100500 +0800" stop="20250428102000 +0800">
-		<title lang="zh">寻梦泡泡岛3(8)</title>
-	</programme>
-	<programme channel="汕头综合" start="20250428102000 +0800" stop="20250428111000 +0800">
-		<title lang="zh">警察荣誉(28)</title>
-	</programme>
-	<programme channel="汕头综合" start="20250428111000 +0800" stop="20250428120000 +0800">
-		<title lang="zh">警察荣誉(29)</title>
-	</programme>
-	<programme channel="汕头综合" start="20250428120000 +0800" stop="20250428123300 +0800">
-		<title lang="zh">汕头新闻</title>
-	</programme>
-	<programme channel="汕头综合" start="20250428123300 +0800" stop="20250428130000 +0800">
-		<title lang="zh">汕头旧事</title>
-	</programme>
-	<programme channel="汕头综合" start="20250428130000 +0800" stop="20250428130300 +0800">
-		<title lang="zh">毛毛镇之海洋大发现(19)</title>
-	</programme>
-	<programme channel="汕头综合" start="20250428130300 +0800" stop="20250428130700 +0800">
-		<title lang="zh">毛毛镇之海洋大发现(20)</title>
-	</programme>
-	<programme channel="汕头综合" start="20250428130700 +0800" stop="20250428131100 +0800">
-		<title lang="zh">毛毛镇之海洋大发现(21)</title>
-	</programme>
-	<programme channel="汕头综合" start="20250428131100 +0800" stop="20250428133000 +0800">
-		<title lang="zh">先生郑一标(2)</title>
-	</programme>
-	<programme channel="汕头综合" start="20250428133000 +0800" stop="20250428140000 +0800">
-		<title lang="zh">健康新生活</title>
-	</programme>
-	<programme channel="汕头综合" start="20250428140000 +0800" stop="20250428145800 +0800">
-		<title lang="zh">今日视线</title>
-	</programme>
-	<programme channel="汕头综合" start="20250428145800 +0800" stop="20250428175500 +0800">
-		<title lang="zh">潮剧:双驸马(下)</title>
-	</programme>
-	<programme channel="汕头综合" start="20250428175500 +0800" stop="20250428181200 +0800">
-		<title lang="zh">果茶蜜探1(29)</title>
-	</programme>
-	<programme channel="汕头综合" start="20250428181200 +0800" stop="20250428183000 +0800">
-		<title lang="zh">果茶蜜探1(30)</title>
-	</programme>
-	<programme channel="汕头综合" start="20250428183000 +0800" stop="20250428190000 +0800">
-		<title lang="zh">广东卫视新闻</title>
-	</programme>
-	<programme channel="汕头综合" start="20250428190000 +0800" stop="20250428193300 +0800">
-		<title lang="zh">转播中央台新闻联播</title>
-	</programme>
-	<programme channel="汕头综合" start="20250428193300 +0800" stop="20250428201000 +0800">
-		<title lang="zh">汕头新闻</title>
-	</programme>
-	<programme channel="汕头综合" start="20250428201000 +0800" stop="20250428204200 +0800">
-		<title lang="zh">汕头旧事</title>
-	</programme>
-	<programme channel="汕头综合" start="20250428204200 +0800" stop="20250428205100 +0800">
+	<programme channel="汕头综合" start="20250429091000 +0800" stop="20250429091900 +0800">
 		<title lang="zh">红色地图(15)</title>
 	</programme>
-	<programme channel="汕头综合" start="20250428205100 +0800" stop="20250428211100 +0800">
+	<programme channel="汕头综合" start="20250429091900 +0800" stop="20250429092800 +0800">
 		<title lang="zh">红色地图(16)</title>
 	</programme>
-	<programme channel="汕头综合" start="20250428211100 +0800" stop="20250428220000 +0800">
-		<title lang="zh">平凡之路(33)</title>
+	<programme channel="汕头综合" start="20250429092800 +0800" stop="20250429095000 +0800">
+		<title lang="zh">潮汕有佳果(5)</title>
 	</programme>
-	<programme channel="汕头综合" start="20250428220000 +0800" stop="20250428230000 +0800">
-		<title lang="zh">今日视线</title>
+	<programme channel="汕头综合" start="20250429095000 +0800" stop="20250429100500 +0800">
+		<title lang="zh">寻梦泡泡岛3(9)</title>
 	</programme>
-	<programme channel="汕头综合" start="20250428230000 +0800" stop="20250428233100 +0800">
+	<programme channel="汕头综合" start="20250429100500 +0800" stop="20250429102000 +0800">
+		<title lang="zh">寻梦泡泡岛3(10)</title>
+	</programme>
+	<programme channel="汕头综合" start="20250429102000 +0800" stop="20250429111000 +0800">
+		<title lang="zh">警察荣誉(30)</title>
+	</programme>
+	<programme channel="汕头综合" start="20250429111000 +0800" stop="20250429120000 +0800">
+		<title lang="zh">警察荣誉(31)</title>
+	</programme>
+	<programme channel="汕头综合" start="20250429120000 +0800" stop="20250429123300 +0800">
 		<title lang="zh">汕头新闻</title>
 	</programme>
-	<programme channel="汕头综合" start="20250428233100 +0800" stop="20250428235900 +0800">
-		<title lang="zh">潮艺长廊(1)</title>
+	<programme channel="汕头综合" start="20250429123300 +0800" stop="20250429130000 +0800">
+		<title lang="zh">汕头旧事</title>
+	</programme>
+	<programme channel="汕头综合" start="20250429130000 +0800" stop="20250429130300 +0800">
+		<title lang="zh">毛毛镇之海洋大发现(22)</title>
+	</programme>
+	<programme channel="汕头综合" start="20250429130300 +0800" stop="20250429130700 +0800">
+		<title lang="zh">毛毛镇之海洋大发现(23)</title>
+	</programme>
+	<programme channel="汕头综合" start="20250429130700 +0800" stop="20250429131100 +0800">
+		<title lang="zh">毛毛镇之海洋大发现(24)</title>
+	</programme>
+	<programme channel="汕头综合" start="20250429131100 +0800" stop="20250429133500 +0800">
+		<title lang="zh">红色地图(15)</title>
+	</programme>
+	<programme channel="汕头综合" start="20250429133500 +0800" stop="20250429140000 +0800">
+		<title lang="zh">红色地图(16)</title>
+	</programme>
+	<programme channel="汕头综合" start="20250429140000 +0800" stop="20250429145800 +0800">
+		<title lang="zh">今日视线</title>
+	</programme>
+	<programme channel="汕头综合" start="20250429145800 +0800" stop="20250429175500 +0800">
+		<title lang="zh">潮剧:金玉奇缘(上)</title>
+	</programme>
+	<programme channel="汕头综合" start="20250429175500 +0800" stop="20250429181200 +0800">
+		<title lang="zh">机灵唐妮妮(1)</title>
+	</programme>
+	<programme channel="汕头综合" start="20250429181200 +0800" stop="20250429183000 +0800">
+		<title lang="zh">机灵唐妮妮(2)</title>
+	</programme>
+	<programme channel="汕头综合" start="20250429183000 +0800" stop="20250429190000 +0800">
+		<title lang="zh">广东卫视新闻</title>
+	</programme>
+	<programme channel="汕头综合" start="20250429190000 +0800" stop="20250429193300 +0800">
+		<title lang="zh">转播中央台新闻联播</title>
+	</programme>
+	<programme channel="汕头综合" start="20250429193300 +0800" stop="20250429201000 +0800">
+		<title lang="zh">汕头新闻</title>
+	</programme>
+	<programme channel="汕头综合" start="20250429201000 +0800" stop="20250429204200 +0800">
+		<title lang="zh">汕头旧事</title>
+	</programme>
+	<programme channel="汕头综合" start="20250429204200 +0800" stop="20250429205100 +0800">
+		<title lang="zh">红色地图(17)</title>
+	</programme>
+	<programme channel="汕头综合" start="20250429205100 +0800" stop="20250429211100 +0800">
+		<title lang="zh">红色地图(18)</title>
+	</programme>
+	<programme channel="汕头综合" start="20250429211100 +0800" stop="20250429220000 +0800">
+		<title lang="zh">平凡之路(34)</title>
+	</programme>
+	<programme channel="汕头综合" start="20250429220000 +0800" stop="20250429230000 +0800">
+		<title lang="zh">今日视线</title>
+	</programme>
+	<programme channel="汕头综合" start="20250429230000 +0800" stop="20250429233100 +0800">
+		<title lang="zh">汕头新闻</title>
+	</programme>
+	<programme channel="汕头综合" start="20250429233100 +0800" stop="20250429235900 +0800">
+		<title lang="zh">潮艺长廊(2)</title>
+	</programme>
+	<channel id="无线新闻">
+		<display-name lang="zh">无线新闻</display-name>
+	</channel>
+	<programme channel="无线新闻" start="20250429000000 +0800" stop="20250429003000 +0800">
+		<title lang="zh">深宵新闻报道及新闻档案</title>
+	</programme>
+	<programme channel="无线新闻" start="20250429003000 +0800" stop="20250429010000 +0800">
+		<title lang="zh">深宵新闻报道及三日天气预报</title>
+	</programme>
+	<programme channel="无线新闻" start="20250429010000 +0800" stop="20250429013000 +0800">
+		<title lang="zh">深宵新闻报道及时事多面睇</title>
+	</programme>
+	<programme channel="无线新闻" start="20250429013000 +0800" stop="20250429020000 +0800">
+		<title lang="zh">深宵新闻报道</title>
+	</programme>
+	<programme channel="无线新闻" start="20250429020000 +0800" stop="20250429023000 +0800">
+		<title lang="zh">深宵新闻报道及三日天气预报及世界观</title>
+	</programme>
+	<programme channel="无线新闻" start="20250429023000 +0800" stop="20250429030000 +0800">
+		<title lang="zh">深宵新闻报道及中华掠影</title>
+	</programme>
+	<programme channel="无线新闻" start="20250429030000 +0800" stop="20250429033000 +0800">
+		<title lang="zh">深宵新闻报道及时事多面睇</title>
+	</programme>
+	<programme channel="无线新闻" start="20250429033000 +0800" stop="20250429040000 +0800">
+		<title lang="zh">深宵新闻报道</title>
+	</programme>
+	<programme channel="无线新闻" start="20250429040000 +0800" stop="20250429043000 +0800">
+		<title lang="zh">深宵新闻报道及中华掠影</title>
+	</programme>
+	<programme channel="无线新闻" start="20250429043000 +0800" stop="20250429050000 +0800">
+		<title lang="zh">深宵新闻报道及三日天气预报及世界观</title>
+	</programme>
+	<programme channel="无线新闻" start="20250429050000 +0800" stop="20250429053000 +0800">
+		<title lang="zh">深宵新闻报道及时事多面睇</title>
+	</programme>
+	<programme channel="无线新闻" start="20250429053000 +0800" stop="20250429060000 +0800">
+		<title lang="zh">深宵新闻报道</title>
+	</programme>
+	<programme channel="无线新闻" start="20250429060000 +0800" stop="20250429063000 +0800">
+		<title lang="zh">香港早晨</title>
+	</programme>
+	<programme channel="无线新闻" start="20250429063000 +0800" stop="20250429070000 +0800">
+		<title lang="zh">香港早晨</title>
+	</programme>
+	<programme channel="无线新闻" start="20250429070000 +0800" stop="20250429073000 +0800">
+		<title lang="zh">香港早晨</title>
+	</programme>
+	<programme channel="无线新闻" start="20250429073000 +0800" stop="20250429080000 +0800">
+		<title lang="zh">香港早晨及交通消息及环球新闻档案</title>
+	</programme>
+	<programme channel="无线新闻" start="20250429080000 +0800" stop="20250429083000 +0800">
+		<title lang="zh">香港早晨及交通消息</title>
+	</programme>
+	<programme channel="无线新闻" start="20250429083000 +0800" stop="20250429090000 +0800">
+		<title lang="zh">香港早晨及交通消息</title>
+	</programme>
+	<programme channel="无线新闻" start="20250429090000 +0800" stop="20250429093000 +0800">
+		<title lang="zh">新闻报道及中华掠影</title>
+	</programme>
+	<programme channel="无线新闻" start="20250429093000 +0800" stop="20250429100000 +0800">
+		<title lang="zh">开市第一击及新闻报道及三日天气预报</title>
+	</programme>
+	<programme channel="无线新闻" start="20250429100000 +0800" stop="20250429103000 +0800">
+		<title lang="zh">新闻报道及物畅其流及时事多面睇</title>
+	</programme>
+	<programme channel="无线新闻" start="20250429103000 +0800" stop="20250429104500 +0800">
+		<title lang="zh">新闻报道及世界观</title>
+	</programme>
+	<programme channel="无线新闻" start="20250429104500 +0800" stop="20250429110000 +0800">
+		<title lang="zh">新闻报道及环球新闻档案</title>
+	</programme>
+	<programme channel="无线新闻" start="20250429110000 +0800" stop="20250429113000 +0800">
+		<title lang="zh">新闻报道及新闻档案</title>
+	</programme>
+	<programme channel="无线新闻" start="20250429113000 +0800" stop="20250429120000 +0800">
+		<title lang="zh">新闻报道及有理说得清及三日天气预报及时事通识</title>
+	</programme>
+	<programme channel="无线新闻" start="20250429120000 +0800" stop="20250429123000 +0800">
+		<title lang="zh">午间新闻及物畅其流</title>
+	</programme>
+	<programme channel="无线新闻" start="20250429123000 +0800" stop="20250429130000 +0800">
+		<title lang="zh">午间新闻及时事多面睇</title>
+	</programme>
+	<programme channel="无线新闻" start="20250429130000 +0800" stop="20250429133000 +0800">
+		<title lang="zh">新闻报道及中华掠影及时事通识</title>
+	</programme>
+	<programme channel="无线新闻" start="20250429133000 +0800" stop="20250429140000 +0800">
+		<title lang="zh">新闻报道及三日天气预报</title>
+	</programme>
+	<programme channel="无线新闻" start="20250429140000 +0800" stop="20250429143000 +0800">
+		<title lang="zh">新闻报道及新闻档案</title>
+	</programme>
+	<programme channel="无线新闻" start="20250429143000 +0800" stop="20250429150000 +0800">
+		<title lang="zh">新闻报道及世界观</title>
+	</programme>
+	<programme channel="无线新闻" start="20250429150000 +0800" stop="20250429153000 +0800">
+		<title lang="zh">新闻报道及物畅其流及深港沪快讯及环球新闻档案</title>
+	</programme>
+	<programme channel="无线新闻" start="20250429153000 +0800" stop="20250429160000 +0800">
+		<title lang="zh">新闻报道及有理说得清及三日天气预报</title>
+	</programme>
+	<programme channel="无线新闻" start="20250429160000 +0800" stop="20250429163000 +0800">
+		<title lang="zh">新闻报道及世界观</title>
+	</programme>
+	<programme channel="无线新闻" start="20250429163000 +0800" stop="20250429170000 +0800">
+		<title lang="zh">新闻报道及中华掠影</title>
+	</programme>
+	<programme channel="无线新闻" start="20250429170000 +0800" stop="20250429173000 +0800">
+		<title lang="zh">新闻报道及新闻档案</title>
+	</programme>
+	<programme channel="无线新闻" start="20250429173000 +0800" stop="20250429180000 +0800">
+		<title lang="zh">新闻报道及交通消息及三日天气预报</title>
+	</programme>
+	<programme channel="无线新闻" start="20250429180000 +0800" stop="20250429183000 +0800">
+		<title lang="zh">新闻报道及交通消息及时事通识</title>
+	</programme>
+	<programme channel="无线新闻" start="20250429183000 +0800" stop="20250429190000 +0800">
+		<title lang="zh">新闻报道</title>
+	</programme>
+	<programme channel="无线新闻" start="20250429190000 +0800" stop="20250429193000 +0800">
+		<title lang="zh">新闻报道</title>
+	</programme>
+	<programme channel="无线新闻" start="20250429193000 +0800" stop="20250429200000 +0800">
+		<title lang="zh">无线730一小时新闻</title>
+	</programme>
+	<programme channel="无线新闻" start="20250429200000 +0800" stop="20250429203000 +0800">
+		<title lang="zh">时事中国及无线730一小时新闻及天气报告</title>
+	</programme>
+	<programme channel="无线新闻" start="20250429203000 +0800" stop="20250429210000 +0800">
+		<title lang="zh">新闻报道及世界观及物畅其流</title>
+	</programme>
+	<programme channel="无线新闻" start="20250429210000 +0800" stop="20250429213000 +0800">
+		<title lang="zh">新闻报道及大国外交及天气报告及新闻档案</title>
+	</programme>
+	<programme channel="无线新闻" start="20250429213000 +0800" stop="20250429214500 +0800">
+		<title lang="zh">时事多面睇</title>
+	</programme>
+	<programme channel="无线新闻" start="20250429214500 +0800" stop="20250429220000 +0800">
+		<title lang="zh">新闻报道及环球新闻档案</title>
+	</programme>
+	<programme channel="无线新闻" start="20250429220000 +0800" stop="20250429223000 +0800">
+		<title lang="zh">新闻报道及大国外交及物畅其流及时事通识</title>
+	</programme>
+	<programme channel="无线新闻" start="20250429223000 +0800" stop="20250429230000 +0800">
+		<title lang="zh">新闻报道及世界观及财经多国度及三日天气预报</title>
+	</programme>
+	<programme channel="无线新闻" start="20250429230000 +0800" stop="20250429233000 +0800">
+		<title lang="zh">晚间新闻及有理说得清及大国外交</title>
+	</programme>
+	<programme channel="无线新闻" start="20250429233000 +0800" stop="20250429235959 +0800">
+		<title lang="zh">晚间新闻及时事通识</title>
 	</programme>
 </tv>
