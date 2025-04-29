@@ -1,16 +1,16 @@
 🕘️更新时间,#genre#
-2025-04-29 18:16:58,http://113.109.250.108:9999/udp/239.77.1.130:5146
+2025-04-30 06:14:26,http://113.109.250.108:9999/udp/239.77.1.130:5146
 
 ☘️广东频道,#genre#
 汕头综合,http://113.109.250.108:9999/udp/239.77.1.130:5146
-汕头综合,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=2eaebe&tk=822270345d4c
 汕头综合,http://125.89.163.44:8888/udp/239.77.1.130:5146
+汕头综合,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=2eaebe&tk=822270345d4c
 汕头经济,http://113.109.250.108:9999/udp/239.77.1.131:5146
-汕头经济,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=b8803a&tk=822270345d4c
 汕头经济,http://125.89.163.44:8888/udp/239.77.1.131:5146
+汕头经济,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=b8803a&tk=822270345d4c
 汕头文旅,http://113.109.250.108:9999/udp/239.77.1.132:5146
-汕头文旅,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=7bfe50&tk=822270345d4c
 汕头文旅,http://125.89.163.44:8888/udp/239.77.1.132:5146
+汕头文旅,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=7bfe50&tk=822270345d4c
 
 🌊港·澳·台,#genre#
 凤凰卫视,http://cdn.132.us.kg/live/fhzw/stream.m3u8$订阅源
@@ -25,5 +25,5 @@
 无线新闻,http://cdn9.163189.xyz/smt1.1.php?id=inews_twn$订阅源
 无线新闻,https://v2hcdn.jdshipin.com/news/news.stream/chunklist_w105.m3u8$订阅源
 无线新闻,http://v2hcdn.jdshipin.com/news/news.stream/chunklist_w1005.m3u8$订阅源
-无线新闻,http://122.152.202.33/s/81a8a44f/index.m3u8?id=21
 无线新闻,https://edge2a.v2h-cdn.com/news/news.stream/chunklist.m3u8
+无线新闻,http://122.152.202.33/s/81a8a44f/index.m3u8?id=21
