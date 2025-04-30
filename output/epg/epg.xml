@@ -1,110 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="20250429221426 +0800">
-	<channel id="汕头综合">
-		<display-name lang="zh">汕头综合</display-name>
-	</channel>
-	<programme channel="汕头综合" start="20250430001500 +0800" stop="20250430010000 +0800">
-		<title lang="zh">县委大院(4)</title>
-	</programme>
-	<programme channel="汕头综合" start="20250430010000 +0800" stop="20250430042000 +0800">
-		<title lang="zh">闭台曲1</title>
-	</programme>
-	<programme channel="汕头综合" start="20250430042000 +0800" stop="20250430070000 +0800">
-		<title lang="zh">闭台曲2</title>
-	</programme>
-	<programme channel="汕头综合" start="20250430070000 +0800" stop="20250430070100 +0800">
-		<title lang="zh">中华人民共和国国歌</title>
-	</programme>
-	<programme channel="汕头综合" start="20250430070100 +0800" stop="20250430080000 +0800">
-		<title lang="zh">汕头新闻</title>
-	</programme>
-	<programme channel="汕头综合" start="20250430080000 +0800" stop="20250430083200 +0800">
-		<title lang="zh">今日视线</title>
-	</programme>
-	<programme channel="汕头综合" start="20250430083200 +0800" stop="20250430091000 +0800">
-		<title lang="zh">广东卫视新闻</title>
-	</programme>
-	<programme channel="汕头综合" start="20250430091000 +0800" stop="20250430091900 +0800">
-		<title lang="zh">红色地图(17)</title>
-	</programme>
-	<programme channel="汕头综合" start="20250430091900 +0800" stop="20250430092800 +0800">
-		<title lang="zh">红色地图(18)</title>
-	</programme>
-	<programme channel="汕头综合" start="20250430092800 +0800" stop="20250430095000 +0800">
-		<title lang="zh">潮汕有佳果(6)</title>
-	</programme>
-	<programme channel="汕头综合" start="20250430095000 +0800" stop="20250430100500 +0800">
-		<title lang="zh">寻梦泡泡岛3(11)</title>
-	</programme>
-	<programme channel="汕头综合" start="20250430100500 +0800" stop="20250430102000 +0800">
-		<title lang="zh">寻梦泡泡岛3(12)</title>
-	</programme>
-	<programme channel="汕头综合" start="20250430102000 +0800" stop="20250430111000 +0800">
-		<title lang="zh">警察荣誉(32)</title>
-	</programme>
-	<programme channel="汕头综合" start="20250430111000 +0800" stop="20250430120000 +0800">
-		<title lang="zh">警察荣誉(33)</title>
-	</programme>
-	<programme channel="汕头综合" start="20250430120000 +0800" stop="20250430123300 +0800">
-		<title lang="zh">汕头新闻</title>
-	</programme>
-	<programme channel="汕头综合" start="20250430123300 +0800" stop="20250430130000 +0800">
-		<title lang="zh">汕头旧事</title>
-	</programme>
-	<programme channel="汕头综合" start="20250430130000 +0800" stop="20250430130300 +0800">
-		<title lang="zh">毛毛镇之海洋大发现(25)</title>
-	</programme>
-	<programme channel="汕头综合" start="20250430130300 +0800" stop="20250430130700 +0800">
-		<title lang="zh">毛毛镇之海洋大发现(26)</title>
-	</programme>
-	<programme channel="汕头综合" start="20250430130700 +0800" stop="20250430131100 +0800">
-		<title lang="zh">毛毛镇之海洋大发现(27)</title>
-	</programme>
-	<programme channel="汕头综合" start="20250430131100 +0800" stop="20250430133500 +0800">
-		<title lang="zh">红色地图(17)</title>
-	</programme>
-	<programme channel="汕头综合" start="20250430133500 +0800" stop="20250430140000 +0800">
-		<title lang="zh">红色地图(18)</title>
-	</programme>
-	<programme channel="汕头综合" start="20250430140000 +0800" stop="20250430145800 +0800">
-		<title lang="zh">今日视线</title>
-	</programme>
-	<programme channel="汕头综合" start="20250430145800 +0800" stop="20250430175500 +0800">
-		<title lang="zh">潮剧:金玉奇缘(下)</title>
-	</programme>
-	<programme channel="汕头综合" start="20250430175500 +0800" stop="20250430181200 +0800">
-		<title lang="zh">机灵唐妮妮(3)</title>
-	</programme>
-	<programme channel="汕头综合" start="20250430181200 +0800" stop="20250430183000 +0800">
-		<title lang="zh">机灵唐妮妮(4)</title>
-	</programme>
-	<programme channel="汕头综合" start="20250430183000 +0800" stop="20250430190000 +0800">
-		<title lang="zh">广东卫视新闻</title>
-	</programme>
-	<programme channel="汕头综合" start="20250430190000 +0800" stop="20250430193300 +0800">
-		<title lang="zh">转播中央台新闻联播</title>
-	</programme>
-	<programme channel="汕头综合" start="20250430193300 +0800" stop="20250430201000 +0800">
-		<title lang="zh">汕头新闻</title>
-	</programme>
-	<programme channel="汕头综合" start="20250430201000 +0800" stop="20250430204200 +0800">
-		<title lang="zh">汕头旧事</title>
-	</programme>
-	<programme channel="汕头综合" start="20250430204200 +0800" stop="20250430211100 +0800">
-		<title lang="zh">千厨潮味(1)</title>
-	</programme>
-	<programme channel="汕头综合" start="20250430211100 +0800" stop="20250430220000 +0800">
-		<title lang="zh">平凡之路(35)</title>
-	</programme>
-	<programme channel="汕头综合" start="20250430220000 +0800" stop="20250430230000 +0800">
-		<title lang="zh">今日视线</title>
-	</programme>
-	<programme channel="汕头综合" start="20250430230000 +0800" stop="20250430233100 +0800">
-		<title lang="zh">汕头新闻</title>
-	</programme>
-	<programme channel="汕头综合" start="20250430233100 +0800" stop="20250430235900 +0800">
-		<title lang="zh">潮艺长廊(3)</title>
-	</programme>
+<tv date="20250430101900 +0800">
 	<channel id="无线新闻">
 		<display-name lang="zh">无线新闻</display-name>
 	</channel>
@@ -264,7 +159,112 @@
 	<programme channel="无线新闻" start="20250430230000 +0800" stop="20250430233000 +0800">
 		<title lang="zh">晚间新闻及有理说得清及大国外交及港楼讲楼</title>
 	</programme>
-	<programme channel="无线新闻" start="20250430233000 +0800" stop="20250430235959 +0800">
+	<programme channel="无线新闻" start="20250430233000 +0800" stop="20250430235900 +0800">
 		<title lang="zh">晚间新闻及时事通识</title>
+	</programme>
+	<channel id="汕头综合">
+		<display-name lang="zh">汕头综合</display-name>
+	</channel>
+	<programme channel="汕头综合" start="20250430001500 +0800" stop="20250430010000 +0800">
+		<title lang="zh">县委大院(4)</title>
+	</programme>
+	<programme channel="汕头综合" start="20250430010000 +0800" stop="20250430042000 +0800">
+		<title lang="zh">闭台曲1</title>
+	</programme>
+	<programme channel="汕头综合" start="20250430042000 +0800" stop="20250430070000 +0800">
+		<title lang="zh">闭台曲2</title>
+	</programme>
+	<programme channel="汕头综合" start="20250430070000 +0800" stop="20250430070100 +0800">
+		<title lang="zh">中华人民共和国国歌</title>
+	</programme>
+	<programme channel="汕头综合" start="20250430070100 +0800" stop="20250430080000 +0800">
+		<title lang="zh">汕头新闻</title>
+	</programme>
+	<programme channel="汕头综合" start="20250430080000 +0800" stop="20250430083200 +0800">
+		<title lang="zh">今日视线</title>
+	</programme>
+	<programme channel="汕头综合" start="20250430083200 +0800" stop="20250430091000 +0800">
+		<title lang="zh">广东卫视新闻</title>
+	</programme>
+	<programme channel="汕头综合" start="20250430091000 +0800" stop="20250430091900 +0800">
+		<title lang="zh">红色地图(17)</title>
+	</programme>
+	<programme channel="汕头综合" start="20250430091900 +0800" stop="20250430092800 +0800">
+		<title lang="zh">红色地图(18)</title>
+	</programme>
+	<programme channel="汕头综合" start="20250430092800 +0800" stop="20250430095000 +0800">
+		<title lang="zh">潮汕有佳果(6)</title>
+	</programme>
+	<programme channel="汕头综合" start="20250430095000 +0800" stop="20250430100500 +0800">
+		<title lang="zh">寻梦泡泡岛3(11)</title>
+	</programme>
+	<programme channel="汕头综合" start="20250430100500 +0800" stop="20250430102000 +0800">
+		<title lang="zh">寻梦泡泡岛3(12)</title>
+	</programme>
+	<programme channel="汕头综合" start="20250430102000 +0800" stop="20250430111000 +0800">
+		<title lang="zh">警察荣誉(32)</title>
+	</programme>
+	<programme channel="汕头综合" start="20250430111000 +0800" stop="20250430120000 +0800">
+		<title lang="zh">警察荣誉(33)</title>
+	</programme>
+	<programme channel="汕头综合" start="20250430120000 +0800" stop="20250430123300 +0800">
+		<title lang="zh">汕头新闻</title>
+	</programme>
+	<programme channel="汕头综合" start="20250430123300 +0800" stop="20250430130000 +0800">
+		<title lang="zh">汕头旧事</title>
+	</programme>
+	<programme channel="汕头综合" start="20250430130000 +0800" stop="20250430130300 +0800">
+		<title lang="zh">毛毛镇之海洋大发现(25)</title>
+	</programme>
+	<programme channel="汕头综合" start="20250430130300 +0800" stop="20250430130700 +0800">
+		<title lang="zh">毛毛镇之海洋大发现(26)</title>
+	</programme>
+	<programme channel="汕头综合" start="20250430130700 +0800" stop="20250430131100 +0800">
+		<title lang="zh">毛毛镇之海洋大发现(27)</title>
+	</programme>
+	<programme channel="汕头综合" start="20250430131100 +0800" stop="20250430133500 +0800">
+		<title lang="zh">红色地图(17)</title>
+	</programme>
+	<programme channel="汕头综合" start="20250430133500 +0800" stop="20250430140000 +0800">
+		<title lang="zh">红色地图(18)</title>
+	</programme>
+	<programme channel="汕头综合" start="20250430140000 +0800" stop="20250430145800 +0800">
+		<title lang="zh">今日视线</title>
+	</programme>
+	<programme channel="汕头综合" start="20250430145800 +0800" stop="20250430175500 +0800">
+		<title lang="zh">潮剧:金玉奇缘(下)</title>
+	</programme>
+	<programme channel="汕头综合" start="20250430175500 +0800" stop="20250430181200 +0800">
+		<title lang="zh">机灵唐妮妮(3)</title>
+	</programme>
+	<programme channel="汕头综合" start="20250430181200 +0800" stop="20250430183000 +0800">
+		<title lang="zh">机灵唐妮妮(4)</title>
+	</programme>
+	<programme channel="汕头综合" start="20250430183000 +0800" stop="20250430190000 +0800">
+		<title lang="zh">广东卫视新闻</title>
+	</programme>
+	<programme channel="汕头综合" start="20250430190000 +0800" stop="20250430193300 +0800">
+		<title lang="zh">转播中央台新闻联播</title>
+	</programme>
+	<programme channel="汕头综合" start="20250430193300 +0800" stop="20250430201000 +0800">
+		<title lang="zh">汕头新闻</title>
+	</programme>
+	<programme channel="汕头综合" start="20250430201000 +0800" stop="20250430204200 +0800">
+		<title lang="zh">汕头旧事</title>
+	</programme>
+	<programme channel="汕头综合" start="20250430204200 +0800" stop="20250430211100 +0800">
+		<title lang="zh">千厨潮味(1)</title>
+	</programme>
+	<programme channel="汕头综合" start="20250430211100 +0800" stop="20250430220000 +0800">
+		<title lang="zh">平凡之路(35)</title>
+	</programme>
+	<programme channel="汕头综合" start="20250430220000 +0800" stop="20250430230000 +0800">
+		<title lang="zh">今日视线</title>
+	</programme>
+	<programme channel="汕头综合" start="20250430230000 +0800" stop="20250430233100 +0800">
+		<title lang="zh">汕头新闻</title>
+	</programme>
+	<programme channel="汕头综合" start="20250430233100 +0800" stop="20250430235900 +0800">
+		<title lang="zh">潮艺长廊(3)</title>
 	</programme>
 </tv>
