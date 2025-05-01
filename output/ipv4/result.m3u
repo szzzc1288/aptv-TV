@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/szzzc1288/aptv-TV/refs/heads/master/output/epg/epg.gz"
-#EXTINF:-1 tvg-name="汕头综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/汕头综合.png" group-title="🕘️更新时间",2025-05-01 18:16:12
+#EXTINF:-1 tvg-name="汕头综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/汕头综合.png" group-title="🕘️更新时间",2025-05-02 06:14:55
 http://125.89.163.44:8888/udp/239.77.1.130:5146
 #EXTINF:-1 tvg-name="汕头综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/汕头综合.png" group-title="☘️广东频道",汕头综合
 http://125.89.163.44:8888/udp/239.77.1.130:5146
@@ -31,5 +31,9 @@ http://qjrhc.jydjd.top:2911/udp/224.1.100.3:11111
 http://120.198.101.106:9901/tsfile/live/1062_1.m3u8?key=txiptv
 #EXTINF:-1 tvg-name="凤凰卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/凤凰卫视.png" group-title="🌊港·澳·台",凤凰卫视
 http://122.152.202.33/s/81a8a44f/index.m3u8?id=15
+#EXTINF:-1 tvg-name="凤凰卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/凤凰卫视.png" group-title="🌊港·澳·台",凤凰卫视
+http://183.162.119.241:9901/tsfile/live/1054_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="无线新闻" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/无线新闻.png" group-title="🌊港·澳·台",无线新闻
+https://edge2a.v2h-cdn.com/news/news.stream/chunklist.m3u8
 #EXTINF:-1 tvg-name="无线新闻" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/无线新闻.png" group-title="🌊港·澳·台",无线新闻
 http://122.152.202.33/s/81a8a44f/index.m3u8?id=21
