@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-05-15 06:12:55,http://113.109.250.108:9999/udp/239.77.1.130:5146
+2025-05-15 18:16:38,http://113.109.250.108:9999/udp/239.77.1.130:5146
 
 ☘️广东频道,#genre#
 汕头综合,http://113.109.250.108:9999/udp/239.77.1.130:5146
@@ -8,8 +8,8 @@
 汕头经济,http://124.222.114.206/sxtv.php?id=st2
 汕头经济,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=b8803a&tk=822270345d4c
 汕头文旅,http://113.109.250.108:9999/udp/239.77.1.132:5146
-汕头文旅,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=7bfe50&tk=822270345d4c
 汕头文旅,http://125.89.163.44:8888/udp/239.77.1.132:5146
+汕头文旅,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=7bfe50&tk=822270345d4c
 
 🌊港·澳·台,#genre#
 凤凰卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=3c732f93c14e1bc0c07641df-156388849014752&amp;wsIPSercert=8de23d0849e78e3b16ec92a2092354$订阅源
