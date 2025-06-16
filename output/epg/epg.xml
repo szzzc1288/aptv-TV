@@ -1,228 +1,225 @@
 <?xml version="1.0" ?>
-<tv date="20250616101636 +0800">
+<tv date="20250616221341 +0800">
 	<channel id="汕头综合">
 		<display-name lang="zh">汕头综合</display-name>
 	</channel>
-	<programme channel="汕头综合" start="20250616001500 +0800" stop="20250616010000 +0800">
-		<title lang="zh">狂飙(27)</title>
+	<programme channel="汕头综合" start="20250617001500 +0800" stop="20250617010000 +0800">
+		<title lang="zh">狂飙(28)</title>
 	</programme>
-	<programme channel="汕头综合" start="20250616010000 +0800" stop="20250616042000 +0800">
+	<programme channel="汕头综合" start="20250617010000 +0800" stop="20250617042000 +0800">
 		<title lang="zh">闭台曲1</title>
 	</programme>
-	<programme channel="汕头综合" start="20250616042000 +0800" stop="20250616070000 +0800">
+	<programme channel="汕头综合" start="20250617042000 +0800" stop="20250617070000 +0800">
 		<title lang="zh">闭台曲2</title>
 	</programme>
-	<programme channel="汕头综合" start="20250616070000 +0800" stop="20250616070100 +0800">
+	<programme channel="汕头综合" start="20250617070000 +0800" stop="20250617070100 +0800">
 		<title lang="zh">中华人民共和国国歌</title>
 	</programme>
-	<programme channel="汕头综合" start="20250616070100 +0800" stop="20250616080000 +0800">
+	<programme channel="汕头综合" start="20250617070100 +0800" stop="20250617080000 +0800">
 		<title lang="zh">汕头新闻</title>
 	</programme>
-	<programme channel="汕头综合" start="20250616080000 +0800" stop="20250616083200 +0800">
+	<programme channel="汕头综合" start="20250617080000 +0800" stop="20250617083200 +0800">
 		<title lang="zh">今日视线</title>
 	</programme>
-	<programme channel="汕头综合" start="20250616083200 +0800" stop="20250616091000 +0800">
+	<programme channel="汕头综合" start="20250617083200 +0800" stop="20250617091000 +0800">
 		<title lang="zh">广东卫视新闻</title>
 	</programme>
-	<programme channel="汕头综合" start="20250616091000 +0800" stop="20250616092800 +0800">
-		<title lang="zh">非遗传承人(2)</title>
-	</programme>
-	<programme channel="汕头综合" start="20250616092800 +0800" stop="20250616095000 +0800">
-		<title lang="zh">健康新生活</title>
-	</programme>
-	<programme channel="汕头综合" start="20250616095000 +0800" stop="20250616100500 +0800">
-		<title lang="zh">超级飞侠16(7)</title>
-	</programme>
-	<programme channel="汕头综合" start="20250616100500 +0800" stop="20250616102000 +0800">
-		<title lang="zh">超级飞侠16(8)</title>
-	</programme>
-	<programme channel="汕头综合" start="20250616102000 +0800" stop="20250616111000 +0800">
-		<title lang="zh">县委大院(5)</title>
-	</programme>
-	<programme channel="汕头综合" start="20250616111000 +0800" stop="20250616120000 +0800">
-		<title lang="zh">县委大院(6)</title>
-	</programme>
-	<programme channel="汕头综合" start="20250616120000 +0800" stop="20250616123300 +0800">
-		<title lang="zh">汕头新闻</title>
-	</programme>
-	<programme channel="汕头综合" start="20250616123300 +0800" stop="20250616131100 +0800">
-		<title lang="zh">汕头旧事</title>
-	</programme>
-	<programme channel="汕头综合" start="20250616131100 +0800" stop="20250616133000 +0800">
-		<title lang="zh">非遗传承人(2)</title>
-	</programme>
-	<programme channel="汕头综合" start="20250616133000 +0800" stop="20250616140000 +0800">
-		<title lang="zh">健康新生活</title>
-	</programme>
-	<programme channel="汕头综合" start="20250616140000 +0800" stop="20250616145800 +0800">
-		<title lang="zh">今日视线</title>
-	</programme>
-	<programme channel="汕头综合" start="20250616145800 +0800" stop="20250616175500 +0800">
-		<title lang="zh">潮剧:魏宫大面</title>
-	</programme>
-	<programme channel="汕头综合" start="20250616175500 +0800" stop="20250616181200 +0800">
-		<title lang="zh">音乐公主爱美莉之星梦乐章(1)</title>
-	</programme>
-	<programme channel="汕头综合" start="20250616181200 +0800" stop="20250616183000 +0800">
-		<title lang="zh">音乐公主爱美莉之星梦乐章(2)</title>
-	</programme>
-	<programme channel="汕头综合" start="20250616183000 +0800" stop="20250616190000 +0800">
-		<title lang="zh">广东卫视新闻</title>
-	</programme>
-	<programme channel="汕头综合" start="20250616190000 +0800" stop="20250616193300 +0800">
-		<title lang="zh">转播中央台新闻联播</title>
-	</programme>
-	<programme channel="汕头综合" start="20250616193300 +0800" stop="20250616201000 +0800">
-		<title lang="zh">汕头新闻</title>
-	</programme>
-	<programme channel="汕头综合" start="20250616201000 +0800" stop="20250616204200 +0800">
-		<title lang="zh">汕头旧事</title>
-	</programme>
-	<programme channel="汕头综合" start="20250616204200 +0800" stop="20250616211100 +0800">
+	<programme channel="汕头综合" start="20250617091000 +0800" stop="20250617092800 +0800">
 		<title lang="zh">最美侨村2(1)</title>
 	</programme>
-	<programme channel="汕头综合" start="20250616211100 +0800" stop="20250616220000 +0800">
-		<title lang="zh">小满生活(13)</title>
+	<programme channel="汕头综合" start="20250617092800 +0800" stop="20250617095000 +0800">
+		<title lang="zh">先生郑一标(1)</title>
 	</programme>
-	<programme channel="汕头综合" start="20250616220000 +0800" stop="20250616230000 +0800">
-		<title lang="zh">今日视线</title>
+	<programme channel="汕头综合" start="20250617095000 +0800" stop="20250617100500 +0800">
+		<title lang="zh">超级飞侠16(9)</title>
 	</programme>
-	<programme channel="汕头综合" start="20250616230000 +0800" stop="20250616233100 +0800">
+	<programme channel="汕头综合" start="20250617100500 +0800" stop="20250617102000 +0800">
+		<title lang="zh">超级飞侠16(10)</title>
+	</programme>
+	<programme channel="汕头综合" start="20250617102000 +0800" stop="20250617111000 +0800">
+		<title lang="zh">县委大院(7)</title>
+	</programme>
+	<programme channel="汕头综合" start="20250617111000 +0800" stop="20250617120000 +0800">
+		<title lang="zh">县委大院(8)</title>
+	</programme>
+	<programme channel="汕头综合" start="20250617120000 +0800" stop="20250617123300 +0800">
 		<title lang="zh">汕头新闻</title>
 	</programme>
-	<programme channel="汕头综合" start="20250616233100 +0800" stop="20250616235900 +0800">
-		<title lang="zh">春华秋实(14)</title>
+	<programme channel="汕头综合" start="20250617123300 +0800" stop="20250617131100 +0800">
+		<title lang="zh">汕头旧事</title>
+	</programme>
+	<programme channel="汕头综合" start="20250617131100 +0800" stop="20250617140000 +0800">
+		<title lang="zh">最美侨村2(1)</title>
+	</programme>
+	<programme channel="汕头综合" start="20250617140000 +0800" stop="20250617145800 +0800">
+		<title lang="zh">今日视线</title>
+	</programme>
+	<programme channel="汕头综合" start="20250617145800 +0800" stop="20250617175500 +0800">
+		<title lang="zh">潮剧:宇宙锋(上)</title>
+	</programme>
+	<programme channel="汕头综合" start="20250617175500 +0800" stop="20250617181200 +0800">
+		<title lang="zh">音乐公主爱美莉之星梦乐章(3)</title>
+	</programme>
+	<programme channel="汕头综合" start="20250617181200 +0800" stop="20250617183000 +0800">
+		<title lang="zh">音乐公主爱美莉之星梦乐章(4)</title>
+	</programme>
+	<programme channel="汕头综合" start="20250617183000 +0800" stop="20250617190000 +0800">
+		<title lang="zh">广东卫视新闻</title>
+	</programme>
+	<programme channel="汕头综合" start="20250617190000 +0800" stop="20250617193300 +0800">
+		<title lang="zh">转播中央台新闻联播</title>
+	</programme>
+	<programme channel="汕头综合" start="20250617193300 +0800" stop="20250617201000 +0800">
+		<title lang="zh">汕头新闻</title>
+	</programme>
+	<programme channel="汕头综合" start="20250617201000 +0800" stop="20250617204200 +0800">
+		<title lang="zh">汕头旧事</title>
+	</programme>
+	<programme channel="汕头综合" start="20250617204200 +0800" stop="20250617211100 +0800">
+		<title lang="zh">最美侨村2(2)</title>
+	</programme>
+	<programme channel="汕头综合" start="20250617211100 +0800" stop="20250617220000 +0800">
+		<title lang="zh">小满生活(14)</title>
+	</programme>
+	<programme channel="汕头综合" start="20250617220000 +0800" stop="20250617230000 +0800">
+		<title lang="zh">今日视线</title>
+	</programme>
+	<programme channel="汕头综合" start="20250617230000 +0800" stop="20250617233100 +0800">
+		<title lang="zh">汕头新闻</title>
+	</programme>
+	<programme channel="汕头综合" start="20250617233100 +0800" stop="20250617235900 +0800">
+		<title lang="zh">春华秋实(15)</title>
 	</programme>
 	<channel id="深圳卫视">
 		<display-name lang="zh">深圳卫视</display-name>
 	</channel>
-	<programme channel="深圳卫视" start="20250616000700 +0800" stop="20250616002200 +0800">
+	<programme channel="深圳卫视" start="20250617000000 +0800" stop="20250617000600 +0800">
 		<title lang="zh">直财经</title>
 	</programme>
-	<programme channel="深圳卫视" start="20250616002200 +0800" stop="20250616005600 +0800">
-		<title lang="zh">探秘时刻</title>
+	<programme channel="深圳卫视" start="20250617000600 +0800" stop="20250617004100 +0800">
+		<title lang="zh">湾区子时2(1)</title>
 	</programme>
-	<programme channel="深圳卫视" start="20250616005600 +0800" stop="20250616012000 +0800">
-		<title lang="zh">看见中国范儿</title>
-	</programme>
-	<programme channel="深圳卫视" start="20250616012000 +0800" stop="20250616015300 +0800">
-		<title lang="zh">探秘时刻</title>
-	</programme>
-	<programme channel="深圳卫视" start="20250616015300 +0800" stop="20250616023800 +0800">
-		<title lang="zh">直播港澳台</title>
-	</programme>
-	<programme channel="深圳卫视" start="20250616023800 +0800" stop="20250616032100 +0800">
-		<title lang="zh">铁血战狼(31)</title>
-	</programme>
-	<programme channel="深圳卫视" start="20250616032100 +0800" stop="20250616040400 +0800">
-		<title lang="zh">铁血战狼(32)</title>
-	</programme>
-	<programme channel="深圳卫视" start="20250616040400 +0800" stop="20250616044700 +0800">
-		<title lang="zh">铁血战狼(33)</title>
-	</programme>
-	<programme channel="深圳卫视" start="20250616044700 +0800" stop="20250616050900 +0800">
-		<title lang="zh">铁血战狼(34)</title>
-	</programme>
-	<programme channel="深圳卫视" start="20250616050900 +0800" stop="20250616052400 +0800">
-		<title lang="zh">科创最前沿</title>
-	</programme>
-	<programme channel="深圳卫视" start="20250616052400 +0800" stop="20250616053400 +0800">
-		<title lang="zh">直财经</title>
-	</programme>
-	<programme channel="深圳卫视" start="20250616053400 +0800" stop="20250616061400 +0800">
-		<title lang="zh">直播港澳台</title>
-	</programme>
-	<programme channel="深圳卫视" start="20250616061400 +0800" stop="20250616062400 +0800">
-		<title lang="zh">专题</title>
-	</programme>
-	<programme channel="深圳卫视" start="20250616062400 +0800" stop="20250616063000 +0800">
-		<title lang="zh">直播港澳台</title>
-	</programme>
-	<programme channel="深圳卫视" start="20250616063000 +0800" stop="20250616065000 +0800">
-		<title lang="zh">深圳非遗</title>
-	</programme>
-	<programme channel="深圳卫视" start="20250616065000 +0800" stop="20250616070000 +0800">
-		<title lang="zh">温暖在身边</title>
-	</programme>
-	<programme channel="深圳卫视" start="20250616070000 +0800" stop="20250616070100 +0800">
-		<title lang="zh">中华人民共和国国歌</title>
-	</programme>
-	<programme channel="深圳卫视" start="20250616070100 +0800" stop="20250616074000 +0800">
-		<title lang="zh">直播港澳台</title>
-	</programme>
-	<programme channel="深圳卫视" start="20250616074000 +0800" stop="20250616075000 +0800">
-		<title lang="zh">专题</title>
-	</programme>
-	<programme channel="深圳卫视" start="20250616075000 +0800" stop="20250616080000 +0800">
-		<title lang="zh">直播港澳台</title>
-	</programme>
-	<programme channel="深圳卫视" start="20250616080000 +0800" stop="20250616100000 +0800">
-		<title lang="zh">超级飞侠-无限合体</title>
-	</programme>
-	<programme channel="深圳卫视" start="20250616100000 +0800" stop="20250616105500 +0800">
-		<title lang="zh">血色玫瑰之女子别动队(10)</title>
-	</programme>
-	<programme channel="深圳卫视" start="20250616105500 +0800" stop="20250616115000 +0800">
-		<title lang="zh">血色玫瑰之女子别动队(11)</title>
-	</programme>
-	<programme channel="深圳卫视" start="20250616115000 +0800" stop="20250616123000 +0800">
-		<title lang="zh">正午看天下</title>
-	</programme>
-	<programme channel="深圳卫视" start="20250616123000 +0800" stop="20250616124500 +0800">
-		<title lang="zh">科创最前沿</title>
-	</programme>
-	<programme channel="深圳卫视" start="20250616124500 +0800" stop="20250616130000 +0800">
-		<title lang="zh">直财经</title>
-	</programme>
-	<programme channel="深圳卫视" start="20250616130000 +0800" stop="20250616134900 +0800">
-		<title lang="zh">决战华岩寺(16)</title>
-	</programme>
-	<programme channel="深圳卫视" start="20250616134900 +0800" stop="20250616144700 +0800">
-		<title lang="zh">决战华岩寺(17)</title>
-	</programme>
-	<programme channel="深圳卫视" start="20250616144700 +0800" stop="20250616154500 +0800">
-		<title lang="zh">决战华岩寺(18)</title>
-	</programme>
-	<programme channel="深圳卫视" start="20250616154500 +0800" stop="20250616164300 +0800">
-		<title lang="zh">决战华岩寺(19)</title>
-	</programme>
-	<programme channel="深圳卫视" start="20250616164300 +0800" stop="20250616174100 +0800">
-		<title lang="zh">决战华岩寺(20)</title>
-	</programme>
-	<programme channel="深圳卫视" start="20250616174100 +0800" stop="20250616183000 +0800">
-		<title lang="zh">决战华岩寺(21)</title>
-	</programme>
-	<programme channel="深圳卫视" start="20250616183000 +0800" stop="20250616190000 +0800">
-		<title lang="zh">深视新闻</title>
-	</programme>
-	<programme channel="深圳卫视" start="20250616190000 +0800" stop="20250616193500 +0800">
-		<title lang="zh">转播中央台新闻联播</title>
-	</programme>
-	<programme channel="深圳卫视" start="20250616193500 +0800" stop="20250616203000 +0800">
-		<title lang="zh">黄金剧场</title>
-	</programme>
-	<programme channel="深圳卫视" start="20250616203000 +0800" stop="20250616212000 +0800">
-		<title lang="zh">黄金剧场</title>
-	</programme>
-	<programme channel="深圳卫视" start="20250616212000 +0800" stop="20250616213500 +0800">
-		<title lang="zh">科创最前沿</title>
-	</programme>
-	<programme channel="深圳卫视" start="20250616213500 +0800" stop="20250616221000 +0800">
-		<title lang="zh">湾区子时1</title>
-	</programme>
-	<programme channel="深圳卫视" start="20250616221000 +0800" stop="20250616222000 +0800">
-		<title lang="zh">直财经</title>
-	</programme>
-	<programme channel="深圳卫视" start="20250616222000 +0800" stop="20250616230500 +0800">
-		<title lang="zh">直播港澳台</title>
-	</programme>
-	<programme channel="深圳卫视" start="20250616230500 +0800" stop="20250616233000 +0800">
+	<programme channel="深圳卫视" start="20250617004100 +0800" stop="20250617011200 +0800">
 		<title lang="zh">Y深圳</title>
 	</programme>
-	<programme channel="深圳卫视" start="20250616233000 +0800" stop="20250616234800 +0800">
+	<programme channel="深圳卫视" start="20250617011200 +0800" stop="20250617014600 +0800">
+		<title lang="zh">湾区子时2(1)</title>
+	</programme>
+	<programme channel="深圳卫视" start="20250617014600 +0800" stop="20250617023400 +0800">
+		<title lang="zh">直播港澳台</title>
+	</programme>
+	<programme channel="深圳卫视" start="20250617023400 +0800" stop="20250617031700 +0800">
+		<title lang="zh">铁血战狼(34)</title>
+	</programme>
+	<programme channel="深圳卫视" start="20250617031700 +0800" stop="20250617040000 +0800">
+		<title lang="zh">铁血战狼(35)</title>
+	</programme>
+	<programme channel="深圳卫视" start="20250617040000 +0800" stop="20250617044200 +0800">
+		<title lang="zh">铁血战狼(36)</title>
+	</programme>
+	<programme channel="深圳卫视" start="20250617044200 +0800" stop="20250617050200 +0800">
+		<title lang="zh">铁血战狼(37)</title>
+	</programme>
+	<programme channel="深圳卫视" start="20250617050200 +0800" stop="20250617051700 +0800">
 		<title lang="zh">科创最前沿</title>
 	</programme>
-	<programme channel="深圳卫视" start="20250616234800 +0800" stop="20250616235900 +0800">
+	<programme channel="深圳卫视" start="20250617051700 +0800" stop="20250617052700 +0800">
+		<title lang="zh">直财经</title>
+	</programme>
+	<programme channel="深圳卫视" start="20250617052700 +0800" stop="20250617060700 +0800">
+		<title lang="zh">直播港澳台</title>
+	</programme>
+	<programme channel="深圳卫视" start="20250617060700 +0800" stop="20250617061700 +0800">
+		<title lang="zh">专题</title>
+	</programme>
+	<programme channel="深圳卫视" start="20250617061700 +0800" stop="20250617062200 +0800">
+		<title lang="zh">直播港澳台</title>
+	</programme>
+	<programme channel="深圳卫视" start="20250617062200 +0800" stop="20250617070000 +0800">
+		<title lang="zh">探秘时刻</title>
+	</programme>
+	<programme channel="深圳卫视" start="20250617070000 +0800" stop="20250617070100 +0800">
+		<title lang="zh">中华人民共和国国歌</title>
+	</programme>
+	<programme channel="深圳卫视" start="20250617070100 +0800" stop="20250617074000 +0800">
+		<title lang="zh">直播港澳台</title>
+	</programme>
+	<programme channel="深圳卫视" start="20250617074000 +0800" stop="20250617075000 +0800">
+		<title lang="zh">专题</title>
+	</programme>
+	<programme channel="深圳卫视" start="20250617075000 +0800" stop="20250617080000 +0800">
+		<title lang="zh">直播港澳台</title>
+	</programme>
+	<programme channel="深圳卫视" start="20250617080000 +0800" stop="20250617085000 +0800">
+		<title lang="zh">血色玫瑰之女子别动队(12)</title>
+	</programme>
+	<programme channel="深圳卫视" start="20250617085000 +0800" stop="20250617095000 +0800">
+		<title lang="zh">血色玫瑰之女子别动队(13)</title>
+	</programme>
+	<programme channel="深圳卫视" start="20250617095000 +0800" stop="20250617105000 +0800">
+		<title lang="zh">血色玫瑰之女子别动队(14)</title>
+	</programme>
+	<programme channel="深圳卫视" start="20250617105000 +0800" stop="20250617115000 +0800">
+		<title lang="zh">血色玫瑰之女子别动队(15)</title>
+	</programme>
+	<programme channel="深圳卫视" start="20250617115000 +0800" stop="20250617123000 +0800">
+		<title lang="zh">正午看天下</title>
+	</programme>
+	<programme channel="深圳卫视" start="20250617123000 +0800" stop="20250617124500 +0800">
+		<title lang="zh">科创最前沿</title>
+	</programme>
+	<programme channel="深圳卫视" start="20250617124500 +0800" stop="20250617130000 +0800">
+		<title lang="zh">直财经</title>
+	</programme>
+	<programme channel="深圳卫视" start="20250617130000 +0800" stop="20250617134900 +0800">
+		<title lang="zh">决战华岩寺(22)</title>
+	</programme>
+	<programme channel="深圳卫视" start="20250617134900 +0800" stop="20250617144700 +0800">
+		<title lang="zh">决战华岩寺(23)</title>
+	</programme>
+	<programme channel="深圳卫视" start="20250617144700 +0800" stop="20250617154500 +0800">
+		<title lang="zh">决战华岩寺(24)</title>
+	</programme>
+	<programme channel="深圳卫视" start="20250617154500 +0800" stop="20250617164300 +0800">
+		<title lang="zh">决战华岩寺(25)</title>
+	</programme>
+	<programme channel="深圳卫视" start="20250617164300 +0800" stop="20250617174100 +0800">
+		<title lang="zh">决战华岩寺(26)</title>
+	</programme>
+	<programme channel="深圳卫视" start="20250617174100 +0800" stop="20250617183000 +0800">
+		<title lang="zh">决战华岩寺(27)</title>
+	</programme>
+	<programme channel="深圳卫视" start="20250617183000 +0800" stop="20250617190000 +0800">
+		<title lang="zh">深视新闻</title>
+	</programme>
+	<programme channel="深圳卫视" start="20250617190000 +0800" stop="20250617193500 +0800">
+		<title lang="zh">转播中央台新闻联播</title>
+	</programme>
+	<programme channel="深圳卫视" start="20250617193500 +0800" stop="20250617203000 +0800">
+		<title lang="zh">刑警的日子(5)</title>
+	</programme>
+	<programme channel="深圳卫视" start="20250617203000 +0800" stop="20250617212000 +0800">
+		<title lang="zh">刑警的日子(6)</title>
+	</programme>
+	<programme channel="深圳卫视" start="20250617212000 +0800" stop="20250617213500 +0800">
+		<title lang="zh">科创最前沿</title>
+	</programme>
+	<programme channel="深圳卫视" start="20250617213500 +0800" stop="20250617221500 +0800">
+		<title lang="zh">决胜制高点</title>
+	</programme>
+	<programme channel="深圳卫视" start="20250617221500 +0800" stop="20250617222500 +0800">
+		<title lang="zh">直财经</title>
+	</programme>
+	<programme channel="深圳卫视" start="20250617222500 +0800" stop="20250617231000 +0800">
+		<title lang="zh">直播港澳台</title>
+	</programme>
+	<programme channel="深圳卫视" start="20250617231000 +0800" stop="20250617234200 +0800">
+		<title lang="zh">探秘时刻</title>
+	</programme>
+	<programme channel="深圳卫视" start="20250617234200 +0800" stop="20250617235900 +0800">
+		<title lang="zh">科创最前沿</title>
+	</programme>
+	<programme channel="深圳卫视" start="20250617235900 +0800" stop="20250617235900 +0800">
 		<title lang="zh">直财经</title>
 	</programme>
 </tv>
