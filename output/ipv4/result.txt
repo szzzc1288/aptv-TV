@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-06-17 18:15:11,http://satellitepull.cnr.cn/live/wxszws/playlist.m3u8
+2025-06-18 06:13:33,http://satellitepull.cnr.cn/live/wxszws/playlist.m3u8
 
 ☘️广东频道,#genre#
 深圳卫视,http://satellitepull.cnr.cn/live/wxszws/playlist.m3u8
@@ -7,9 +7,6 @@
 深圳卫视,http://171.15.18.199:8180/TV00000000000000000026@HHZT
 深圳卫视,http://qjrhc.jydjd.top:2911/udp/224.1.100.40:11111
 汕头文旅,http://tv.zzlag.top:9003/hls/5/index.m3u8
-汕头文旅,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=0590&tk=a0c4f6cfaba3
-汕头文旅,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=5771&tk=a0c4f6cfaba3
-汕头文旅,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=e8fcaf&tk=822270345d4c
 
 🌊港·澳·台,#genre#
 凤凰中文,https://cdn.iptv8k.top/dl/jrys.php?id=19&time=20240926215313&ip=111.229.253.40
