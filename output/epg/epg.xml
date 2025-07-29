@@ -1,5 +1,611 @@
 <?xml version="1.0" ?>
-<tv date="20250728221527 +0800">
+<tv date="20250729101607 +0800">
+	<channel id="凤凰中文">
+		<display-name lang="zh">凤凰中文</display-name>
+	</channel>
+	<programme channel="凤凰中文" start="20250729000000 +0800" stop="20250729005700 +0800">
+		<title lang="zh">凤凰洲际快车(29725)</title>
+	</programme>
+	<programme channel="凤凰中文" start="20250729005700 +0800" stop="20250729010000 +0800">
+		<title lang="zh">凤凰气象站</title>
+	</programme>
+	<programme channel="凤凰中文" start="20250729010000 +0800" stop="20250729013000 +0800">
+		<title lang="zh">有报天天读(28725)</title>
+	</programme>
+	<programme channel="凤凰中文" start="20250729013000 +0800" stop="20250729020000 +0800">
+		<title lang="zh">潍柴动力凤凰大视野</title>
+	</programme>
+	<programme channel="凤凰中文" start="20250729020000 +0800" stop="20250729023000 +0800">
+		<title lang="zh">纪录大时代(1214)</title>
+	</programme>
+	<programme channel="凤凰中文" start="20250729023000 +0800" stop="20250729030000 +0800">
+		<title lang="zh">中国银行(香港)亚洲财经透视(929)</title>
+	</programme>
+	<programme channel="凤凰中文" start="20250729030000 +0800" stop="20250729033000 +0800">
+		<title lang="zh">口子窖问答神州(960)</title>
+	</programme>
+	<programme channel="凤凰中文" start="20250729033000 +0800" stop="20250729040000 +0800">
+		<title lang="zh">华润凤凰聚焦(931)</title>
+	</programme>
+	<programme channel="凤凰中文" start="20250729040000 +0800" stop="20250729043000 +0800">
+		<title lang="zh">空间观策(182)</title>
+	</programme>
+	<programme channel="凤凰中文" start="20250729043000 +0800" stop="20250729050000 +0800">
+		<title lang="zh">中国太平凤凰全球连线(28725)</title>
+	</programme>
+	<programme channel="凤凰中文" start="20250729050000 +0800" stop="20250729053000 +0800">
+		<title lang="zh">有报天天读(28725)</title>
+	</programme>
+	<programme channel="凤凰中文" start="20250729053000 +0800" stop="20250729060000 +0800">
+		<title lang="zh">时事亮亮点(650)</title>
+	</programme>
+	<programme channel="凤凰中文" start="20250729060000 +0800" stop="20250729063000 +0800">
+		<title lang="zh">纪录大时代(1214)</title>
+	</programme>
+	<programme channel="凤凰中文" start="20250729063000 +0800" stop="20250729070000 +0800">
+		<title lang="zh">总编辑时间(28725)</title>
+	</programme>
+	<programme channel="凤凰中文" start="20250729070000 +0800" stop="20250729075700 +0800">
+		<title lang="zh">凤凰早班车(29725)</title>
+	</programme>
+	<programme channel="凤凰中文" start="20250729075700 +0800" stop="20250729080000 +0800">
+		<title lang="zh">凤凰气象站</title>
+	</programme>
+	<programme channel="凤凰中文" start="20250729080000 +0800" stop="20250729085700 +0800">
+		<title lang="zh">凤凰早班车(29725)</title>
+	</programme>
+	<programme channel="凤凰中文" start="20250729085700 +0800" stop="20250729090000 +0800">
+		<title lang="zh">凤凰气象站</title>
+	</programme>
+	<programme channel="凤凰中文" start="20250729090000 +0800" stop="20250729093000 +0800">
+		<title lang="zh">中国太平凤凰全球连线(28725)</title>
+	</programme>
+	<programme channel="凤凰中文" start="20250729093000 +0800" stop="20250729100000 +0800">
+		<title lang="zh">潍柴动力凤凰大视野</title>
+	</programme>
+	<programme channel="凤凰中文" start="20250729100000 +0800" stop="20250729105700 +0800">
+		<title lang="zh">凤凰正点播报1000(29725)</title>
+	</programme>
+	<programme channel="凤凰中文" start="20250729105700 +0800" stop="20250729110000 +0800">
+		<title lang="zh">凤凰气象站</title>
+	</programme>
+	<programme channel="凤凰中文" start="20250729110000 +0800" stop="20250729113000 +0800">
+		<title lang="zh">华润凤凰聚焦(931)</title>
+	</programme>
+	<programme channel="凤凰中文" start="20250729113000 +0800" stop="20250729120000 +0800">
+		<title lang="zh">有报天天读(29725)</title>
+	</programme>
+	<programme channel="凤凰中文" start="20250729120000 +0800" stop="20250729125500 +0800">
+		<title lang="zh">中免集团凤凰午间专列(29725)</title>
+	</programme>
+	<programme channel="凤凰中文" start="20250729125500 +0800" stop="20250729130000 +0800">
+		<title lang="zh">凤凰气象站</title>
+	</programme>
+	<programme channel="凤凰中文" start="20250729130000 +0800" stop="20250729133000 +0800">
+		<title lang="zh">总编辑时间(28725)</title>
+	</programme>
+	<programme channel="凤凰中文" start="20250729133000 +0800" stop="20250729134500 +0800">
+		<title lang="zh">我的香港故事(183)</title>
+	</programme>
+	<programme channel="凤凰中文" start="20250729134500 +0800" stop="20250729143000 +0800">
+		<title lang="zh">笑逐言开(588)</title>
+	</programme>
+	<programme channel="凤凰中文" start="20250729143000 +0800" stop="20250729150000 +0800">
+		<title lang="zh">潍柴动力凤凰大视野</title>
+	</programme>
+	<programme channel="凤凰中文" start="20250729150000 +0800" stop="20250729155700 +0800">
+		<title lang="zh">凤凰正点播报1500(29725)</title>
+	</programme>
+	<programme channel="凤凰中文" start="20250729155700 +0800" stop="20250729160000 +0800">
+		<title lang="zh">凤凰气象站</title>
+	</programme>
+	<programme channel="凤凰中文" start="20250729160000 +0800" stop="20250729163000 +0800">
+		<title lang="zh">口子窖问答神州(960)</title>
+	</programme>
+	<programme channel="凤凰中文" start="20250729163000 +0800" stop="20250729170000 +0800">
+		<title lang="zh">纪录大时代(1215)</title>
+	</programme>
+	<programme channel="凤凰中文" start="20250729170000 +0800" stop="20250729173000 +0800">
+		<title lang="zh">时事亮亮点(650)</title>
+	</programme>
+	<programme channel="凤凰中文" start="20250729173000 +0800" stop="20250729180000 +0800">
+		<title lang="zh">有报天天读(29725)</title>
+	</programme>
+	<programme channel="凤凰中文" start="20250729180000 +0800" stop="20250729182700 +0800">
+		<title lang="zh">凤凰焦点新闻1800(29725)</title>
+	</programme>
+	<programme channel="凤凰中文" start="20250729182700 +0800" stop="20250729183000 +0800">
+		<title lang="zh">凤凰气象站</title>
+	</programme>
+	<programme channel="凤凰中文" start="20250729183000 +0800" stop="20250729190000 +0800">
+		<title lang="zh">以岭药业新闻今日谈(29725)</title>
+	</programme>
+	<programme channel="凤凰中文" start="20250729190000 +0800" stop="20250729193000 +0800">
+		<title lang="zh">中国银行(香港)亚洲财经透视(930)</title>
+	</programme>
+	<programme channel="凤凰中文" start="20250729193000 +0800" stop="20250729200000 +0800">
+		<title lang="zh">香港热厨房(48)</title>
+	</programme>
+	<programme channel="凤凰中文" start="20250729200000 +0800" stop="20250729203000 +0800">
+		<title lang="zh">潍柴动力凤凰大视野</title>
+	</programme>
+	<programme channel="凤凰中文" start="20250729203000 +0800" stop="20250729210000 +0800">
+		<title lang="zh">文化大观园(432)</title>
+	</programme>
+	<programme channel="凤凰中文" start="20250729210000 +0800" stop="20250729215500 +0800">
+		<title lang="zh">时事直通车(29725)</title>
+	</programme>
+	<programme channel="凤凰中文" start="20250729215500 +0800" stop="20250729220000 +0800">
+		<title lang="zh">凤凰气象站</title>
+	</programme>
+	<programme channel="凤凰中文" start="20250729220000 +0800" stop="20250729223000 +0800">
+		<title lang="zh">华润凤凰聚焦(932)</title>
+	</programme>
+	<programme channel="凤凰中文" start="20250729223000 +0800" stop="20250729230000 +0800">
+		<title lang="zh">中国太平凤凰全球连线(29725)</title>
+	</programme>
+	<programme channel="凤凰中文" start="20250729230000 +0800" stop="20250729233000 +0800">
+		<title lang="zh">中国银行(香港)亚洲财经透视(930)</title>
+	</programme>
+	<programme channel="凤凰中文" start="20250729233000 +0800" stop="20250729235900 +0800">
+		<title lang="zh">以岭药业新闻今日谈(29725)</title>
+	</programme>
+	<channel id="凤凰资讯">
+		<display-name lang="zh">凤凰资讯</display-name>
+	</channel>
+	<programme channel="凤凰资讯" start="20250729000000 +0800" stop="20250729005700 +0800">
+		<title lang="zh">凤凰洲际快车</title>
+	</programme>
+	<programme channel="凤凰资讯" start="20250729005700 +0800" stop="20250729010000 +0800">
+		<title lang="zh">凤凰气象站</title>
+	</programme>
+	<programme channel="凤凰资讯" start="20250729010000 +0800" stop="20250729012700 +0800">
+		<title lang="zh">凤凰正点播报</title>
+	</programme>
+	<programme channel="凤凰资讯" start="20250729012700 +0800" stop="20250729013000 +0800">
+		<title lang="zh">凤凰气象站</title>
+	</programme>
+	<programme channel="凤凰资讯" start="20250729013000 +0800" stop="20250729020000 +0800">
+		<title lang="zh">金石财经</title>
+	</programme>
+	<programme channel="凤凰资讯" start="20250729020000 +0800" stop="20250729023000 +0800">
+		<title lang="zh">凤凰正点播报</title>
+	</programme>
+	<programme channel="凤凰资讯" start="20250729023000 +0800" stop="20250729030000 +0800">
+		<title lang="zh">凤凰财经日报</title>
+	</programme>
+	<programme channel="凤凰资讯" start="20250729030000 +0800" stop="20250729033000 +0800">
+		<title lang="zh">凤凰正点播报</title>
+	</programme>
+	<programme channel="凤凰资讯" start="20250729033000 +0800" stop="20250729040000 +0800">
+		<title lang="zh">总编辑时间</title>
+	</programme>
+	<programme channel="凤凰资讯" start="20250729040000 +0800" stop="20250729053000 +0800">
+		<title lang="zh">凤凰正点播报</title>
+	</programme>
+	<programme channel="凤凰资讯" start="20250729053000 +0800" stop="20250729060000 +0800">
+		<title lang="zh">新闻今日谈</title>
+	</programme>
+	<programme channel="凤凰资讯" start="20250729060000 +0800" stop="20250729063000 +0800">
+		<title lang="zh">凤凰正点播报</title>
+	</programme>
+	<programme channel="凤凰资讯" start="20250729063000 +0800" stop="20250729070000 +0800">
+		<title lang="zh">凤凰聚焦</title>
+	</programme>
+	<programme channel="凤凰资讯" start="20250729070000 +0800" stop="20250729085700 +0800">
+		<title lang="zh">凤凰早班车</title>
+	</programme>
+	<programme channel="凤凰资讯" start="20250729085700 +0800" stop="20250729090000 +0800">
+		<title lang="zh">凤凰气象站</title>
+	</programme>
+	<programme channel="凤凰资讯" start="20250729090000 +0800" stop="20250729093000 +0800">
+		<title lang="zh">凤凰正点播报</title>
+	</programme>
+	<programme channel="凤凰资讯" start="20250729093000 +0800" stop="20250729100000 +0800">
+		<title lang="zh">金石财经</title>
+	</programme>
+	<programme channel="凤凰资讯" start="20250729100000 +0800" stop="20250729112700 +0800">
+		<title lang="zh">凤凰正点播报</title>
+	</programme>
+	<programme channel="凤凰资讯" start="20250729112700 +0800" stop="20250729113000 +0800">
+		<title lang="zh">凤凰气象站</title>
+	</programme>
+	<programme channel="凤凰资讯" start="20250729113000 +0800" stop="20250729120000 +0800">
+		<title lang="zh">总编辑时间</title>
+	</programme>
+	<programme channel="凤凰资讯" start="20250729120000 +0800" stop="20250729125500 +0800">
+		<title lang="zh">凤凰午间专列</title>
+	</programme>
+	<programme channel="凤凰资讯" start="20250729125500 +0800" stop="20250729130000 +0800">
+		<title lang="zh">凤凰气象站</title>
+	</programme>
+	<programme channel="凤凰资讯" start="20250729130000 +0800" stop="20250729133000 +0800">
+		<title lang="zh">凤凰正点播报</title>
+	</programme>
+	<programme channel="凤凰资讯" start="20250729133000 +0800" stop="20250729143000 +0800">
+		<title lang="zh">金石财经</title>
+	</programme>
+	<programme channel="凤凰资讯" start="20250729143000 +0800" stop="20250729155700 +0800">
+		<title lang="zh">总编辑时间</title>
+	</programme>
+	<programme channel="凤凰资讯" start="20250729155700 +0800" stop="20250729160000 +0800">
+		<title lang="zh">凤凰气象站</title>
+	</programme>
+	<programme channel="凤凰资讯" start="20250729160000 +0800" stop="20250729165700 +0800">
+		<title lang="zh">凤凰正点播报</title>
+	</programme>
+	<programme channel="凤凰资讯" start="20250729165700 +0800" stop="20250729170000 +0800">
+		<title lang="zh">凤凰气象站</title>
+	</programme>
+	<programme channel="凤凰资讯" start="20250729170000 +0800" stop="20250729173000 +0800">
+		<title lang="zh">凤凰正点播报</title>
+	</programme>
+	<programme channel="凤凰资讯" start="20250729173000 +0800" stop="20250729180000 +0800">
+		<title lang="zh">金石财经</title>
+	</programme>
+	<programme channel="凤凰资讯" start="20250729180000 +0800" stop="20250729182700 +0800">
+		<title lang="zh">凤凰焦点新闻</title>
+	</programme>
+	<programme channel="凤凰资讯" start="20250729182700 +0800" stop="20250729183000 +0800">
+		<title lang="zh">凤凰气象站</title>
+	</programme>
+	<programme channel="凤凰资讯" start="20250729183000 +0800" stop="20250729190000 +0800">
+		<title lang="zh">新闻今日谈</title>
+	</programme>
+	<programme channel="凤凰资讯" start="20250729190000 +0800" stop="20250729195700 +0800">
+		<title lang="zh">华闻大直播</title>
+	</programme>
+	<programme channel="凤凰资讯" start="20250729195700 +0800" stop="20250729200000 +0800">
+		<title lang="zh">凤凰气象站</title>
+	</programme>
+	<programme channel="凤凰资讯" start="20250729200000 +0800" stop="20250729202700 +0800">
+		<title lang="zh">凤凰焦点新闻</title>
+	</programme>
+	<programme channel="凤凰资讯" start="20250729202700 +0800" stop="20250729203000 +0800">
+		<title lang="zh">凤凰气象站</title>
+	</programme>
+	<programme channel="凤凰资讯" start="20250729203000 +0800" stop="20250729215500 +0800">
+		<title lang="zh">凤凰财经日报</title>
+	</programme>
+	<programme channel="凤凰资讯" start="20250729215500 +0800" stop="20250729220000 +0800">
+		<title lang="zh">凤凰气象站</title>
+	</programme>
+	<programme channel="凤凰资讯" start="20250729220000 +0800" stop="20250729223000 +0800">
+		<title lang="zh">总编辑时间</title>
+	</programme>
+	<programme channel="凤凰资讯" start="20250729223000 +0800" stop="20250729230000 +0800">
+		<title lang="zh">新闻今日谈</title>
+	</programme>
+	<programme channel="凤凰资讯" start="20250729230000 +0800" stop="20250729233000 +0800">
+		<title lang="zh">凤凰焦点新闻</title>
+	</programme>
+	<programme channel="凤凰资讯" start="20250729233000 +0800" stop="20250729235900 +0800">
+		<title lang="zh">总编辑时间</title>
+	</programme>
+	<channel id="凤凰香港">
+		<display-name lang="zh">凤凰香港</display-name>
+	</channel>
+	<programme channel="凤凰香港" start="20250729000000 +0800" stop="20250729003000 +0800">
+		<title lang="zh">华润凤凰聚焦</title>
+	</programme>
+	<programme channel="凤凰香港" start="20250729003000 +0800" stop="20250729010000 +0800">
+		<title lang="zh">新闻今日谈</title>
+	</programme>
+	<programme channel="凤凰香港" start="20250729010000 +0800" stop="20250729013000 +0800">
+		<title lang="zh">总编辑时间</title>
+	</programme>
+	<programme channel="凤凰香港" start="20250729013000 +0800" stop="20250729020000 +0800">
+		<title lang="zh">时事大破解</title>
+	</programme>
+	<programme channel="凤凰香港" start="20250729020000 +0800" stop="20250729023000 +0800">
+		<title lang="zh">凤凰全球连线</title>
+	</programme>
+	<programme channel="凤凰香港" start="20250729023000 +0800" stop="20250729030000 +0800">
+		<title lang="zh">圣座风暴——梵蒂冈的秘密力量</title>
+	</programme>
+	<programme channel="凤凰香港" start="20250729030000 +0800" stop="20250729033000 +0800">
+		<title lang="zh">华润凤凰聚焦</title>
+	</programme>
+	<programme channel="凤凰香港" start="20250729033000 +0800" stop="20250729040000 +0800">
+		<title lang="zh">总编辑时间</title>
+	</programme>
+	<programme channel="凤凰香港" start="20250729040000 +0800" stop="20250729043000 +0800">
+		<title lang="zh">X</title>
+	</programme>
+	<programme channel="凤凰香港" start="20250729043000 +0800" stop="20250729045700 +0800">
+		<title lang="zh">来吧我是电影人</title>
+	</programme>
+	<programme channel="凤凰香港" start="20250729045700 +0800" stop="20250729050000 +0800">
+		<title lang="zh">秘境之眼</title>
+	</programme>
+	<programme channel="凤凰香港" start="20250729050000 +0800" stop="20250729053000 +0800">
+		<title lang="zh">时事大破解</title>
+	</programme>
+	<programme channel="凤凰香港" start="20250729053000 +0800" stop="20250729060000 +0800">
+		<title lang="zh">新闻今日谈</title>
+	</programme>
+	<programme channel="凤凰香港" start="20250729060000 +0800" stop="20250729063000 +0800">
+		<title lang="zh">文化大观园</title>
+	</programme>
+	<programme channel="凤凰香港" start="20250729063000 +0800" stop="20250729070000 +0800">
+		<title lang="zh">圣座风暴——梵蒂冈的秘密力量</title>
+	</programme>
+	<programme channel="凤凰香港" start="20250729070000 +0800" stop="20250729075700 +0800">
+		<title lang="zh">凤凰早班车</title>
+	</programme>
+	<programme channel="凤凰香港" start="20250729075700 +0800" stop="20250729080000 +0800">
+		<title lang="zh">凤凰气象站</title>
+	</programme>
+	<programme channel="凤凰香港" start="20250729080000 +0800" stop="20250729085700 +0800">
+		<title lang="zh">凤凰早班车</title>
+	</programme>
+	<programme channel="凤凰香港" start="20250729085700 +0800" stop="20250729090000 +0800">
+		<title lang="zh">凤凰气象站</title>
+	</programme>
+	<programme channel="凤凰香港" start="20250729090000 +0800" stop="20250729093000 +0800">
+		<title lang="zh">总编辑时间</title>
+	</programme>
+	<programme channel="凤凰香港" start="20250729093000 +0800" stop="20250729100000 +0800">
+		<title lang="zh">X</title>
+	</programme>
+	<programme channel="凤凰香港" start="20250729100000 +0800" stop="20250729102700 +0800">
+		<title lang="zh">来吧我是电影人</title>
+	</programme>
+	<programme channel="凤凰香港" start="20250729102700 +0800" stop="20250729103000 +0800">
+		<title lang="zh">秘境之眼</title>
+	</programme>
+	<programme channel="凤凰香港" start="20250729103000 +0800" stop="20250729110000 +0800">
+		<title lang="zh">圣座风暴——梵蒂冈的秘密力量</title>
+	</programme>
+	<programme channel="凤凰香港" start="20250729110000 +0800" stop="20250729112800 +0800">
+		<title lang="zh">时事大破解</title>
+	</programme>
+	<programme channel="凤凰香港" start="20250729112800 +0800" stop="20250729113000 +0800">
+		<title lang="zh">世界因你而美丽第17届影响世界华人盛典名言录</title>
+	</programme>
+	<programme channel="凤凰香港" start="20250729113000 +0800" stop="20250729120000 +0800">
+		<title lang="zh">华润凤凰聚焦</title>
+	</programme>
+	<programme channel="凤凰香港" start="20250729120000 +0800" stop="20250729125500 +0800">
+		<title lang="zh">凤凰午间专列</title>
+	</programme>
+	<programme channel="凤凰香港" start="20250729125500 +0800" stop="20250729130000 +0800">
+		<title lang="zh">凤凰气象站</title>
+	</programme>
+	<programme channel="凤凰香港" start="20250729130000 +0800" stop="20250729135700 +0800">
+		<title lang="zh">午间快线</title>
+	</programme>
+	<programme channel="凤凰香港" start="20250729135700 +0800" stop="20250729140000 +0800">
+		<title lang="zh">凤凰气象站</title>
+	</programme>
+	<programme channel="凤凰香港" start="20250729140000 +0800" stop="20250729143000 +0800">
+		<title lang="zh">时事亮亮点</title>
+	</programme>
+	<programme channel="凤凰香港" start="20250729143000 +0800" stop="20250729150000 +0800">
+		<title lang="zh">X</title>
+	</programme>
+	<programme channel="凤凰香港" start="20250729150000 +0800" stop="20250729152700 +0800">
+		<title lang="zh">来吧我是电影人</title>
+	</programme>
+	<programme channel="凤凰香港" start="20250729152700 +0800" stop="20250729153000 +0800">
+		<title lang="zh">秘境之眼</title>
+	</programme>
+	<programme channel="凤凰香港" start="20250729153000 +0800" stop="20250729160000 +0800">
+		<title lang="zh">时事大破解</title>
+	</programme>
+	<programme channel="凤凰香港" start="20250729160000 +0800" stop="20250729163000 +0800">
+		<title lang="zh">圣座风暴——梵蒂冈的秘密力量</title>
+	</programme>
+	<programme channel="凤凰香港" start="20250729163000 +0800" stop="20250729170000 +0800">
+		<title lang="zh">发现大湾区</title>
+	</programme>
+	<programme channel="凤凰香港" start="20250729170000 +0800" stop="20250729173000 +0800">
+		<title lang="zh">华润凤凰聚焦</title>
+	</programme>
+	<programme channel="凤凰香港" start="20250729173000 +0800" stop="20250729180000 +0800">
+		<title lang="zh">新闻鉴证组</title>
+	</programme>
+	<programme channel="凤凰香港" start="20250729180000 +0800" stop="20250729182700 +0800">
+		<title lang="zh">凤凰焦点新闻1800</title>
+	</programme>
+	<programme channel="凤凰香港" start="20250729182700 +0800" stop="20250729183000 +0800">
+		<title lang="zh">凤凰气象站</title>
+	</programme>
+	<programme channel="凤凰香港" start="20250729183000 +0800" stop="20250729190000 +0800">
+		<title lang="zh">新闻今日谈</title>
+	</programme>
+	<programme channel="凤凰香港" start="20250729190000 +0800" stop="20250729195700 +0800">
+		<title lang="zh">全球新闻报道</title>
+	</programme>
+	<programme channel="凤凰香港" start="20250729195700 +0800" stop="20250729200000 +0800">
+		<title lang="zh">凤凰气象站</title>
+	</programme>
+	<programme channel="凤凰香港" start="20250729200000 +0800" stop="20250729202800 +0800">
+		<title lang="zh">时事大破解</title>
+	</programme>
+	<programme channel="凤凰香港" start="20250729202800 +0800" stop="20250729203000 +0800">
+		<title lang="zh">中国银行(香港)直达大湾区</title>
+	</programme>
+	<programme channel="凤凰香港" start="20250729203000 +0800" stop="20250729210000 +0800">
+		<title lang="zh">香港新视点</title>
+	</programme>
+	<programme channel="凤凰香港" start="20250729210000 +0800" stop="20250729215500 +0800">
+		<title lang="zh">时事直通车</title>
+	</programme>
+	<programme channel="凤凰香港" start="20250729215500 +0800" stop="20250729220000 +0800">
+		<title lang="zh">凤凰气象站</title>
+	</programme>
+	<programme channel="凤凰香港" start="20250729220000 +0800" stop="20250729223000 +0800">
+		<title lang="zh">晚间专线</title>
+	</programme>
+	<programme channel="凤凰香港" start="20250729223000 +0800" stop="20250729225800 +0800">
+		<title lang="zh">凤凰全球连线</title>
+	</programme>
+	<programme channel="凤凰香港" start="20250729225800 +0800" stop="20250729230000 +0800">
+		<title lang="zh">世界因你而美丽第17届影响世界华人盛典名言录</title>
+	</programme>
+	<programme channel="凤凰香港" start="20250729230000 +0800" stop="20250729233000 +0800">
+		<title lang="zh">问答神州</title>
+	</programme>
+	<programme channel="凤凰香港" start="20250729233000 +0800" stop="20250729235900 +0800">
+		<title lang="zh">中国银行(香港)亚洲财经透视</title>
+	</programme>
+	<channel id="无线新闻">
+		<display-name lang="zh">无线新闻</display-name>
+	</channel>
+	<programme channel="无线新闻" start="20250729000000 +0800" stop="20250729003000 +0800">
+		<title lang="zh">深宵新闻报道及新闻档案</title>
+	</programme>
+	<programme channel="无线新闻" start="20250729003000 +0800" stop="20250729010000 +0800">
+		<title lang="zh">深宵新闻报道及三日天气预报</title>
+	</programme>
+	<programme channel="无线新闻" start="20250729010000 +0800" stop="20250729013000 +0800">
+		<title lang="zh">深宵新闻报道及时事多面睇</title>
+	</programme>
+	<programme channel="无线新闻" start="20250729013000 +0800" stop="20250729020000 +0800">
+		<title lang="zh">深宵新闻报道</title>
+	</programme>
+	<programme channel="无线新闻" start="20250729020000 +0800" stop="20250729023000 +0800">
+		<title lang="zh">深宵新闻报道及三日天气预报及世界观</title>
+	</programme>
+	<programme channel="无线新闻" start="20250729023000 +0800" stop="20250729030000 +0800">
+		<title lang="zh">深宵新闻报道及中华掠影</title>
+	</programme>
+	<programme channel="无线新闻" start="20250729030000 +0800" stop="20250729033000 +0800">
+		<title lang="zh">深宵新闻报道及时事多面睇</title>
+	</programme>
+	<programme channel="无线新闻" start="20250729033000 +0800" stop="20250729040000 +0800">
+		<title lang="zh">深宵新闻报道</title>
+	</programme>
+	<programme channel="无线新闻" start="20250729040000 +0800" stop="20250729043000 +0800">
+		<title lang="zh">深宵新闻报道及中华掠影</title>
+	</programme>
+	<programme channel="无线新闻" start="20250729043000 +0800" stop="20250729050000 +0800">
+		<title lang="zh">深宵新闻报道及三日天气预报及世界观</title>
+	</programme>
+	<programme channel="无线新闻" start="20250729050000 +0800" stop="20250729053000 +0800">
+		<title lang="zh">深宵新闻报道及时事多面睇</title>
+	</programme>
+	<programme channel="无线新闻" start="20250729053000 +0800" stop="20250729060000 +0800">
+		<title lang="zh">深宵新闻报道</title>
+	</programme>
+	<programme channel="无线新闻" start="20250729060000 +0800" stop="20250729063000 +0800">
+		<title lang="zh">香港早晨</title>
+	</programme>
+	<programme channel="无线新闻" start="20250729063000 +0800" stop="20250729070000 +0800">
+		<title lang="zh">香港早晨</title>
+	</programme>
+	<programme channel="无线新闻" start="20250729070000 +0800" stop="20250729073000 +0800">
+		<title lang="zh">香港早晨</title>
+	</programme>
+	<programme channel="无线新闻" start="20250729073000 +0800" stop="20250729080000 +0800">
+		<title lang="zh">香港早晨及交通消息及环球新闻档案</title>
+	</programme>
+	<programme channel="无线新闻" start="20250729080000 +0800" stop="20250729083000 +0800">
+		<title lang="zh">香港早晨及交通消息</title>
+	</programme>
+	<programme channel="无线新闻" start="20250729083000 +0800" stop="20250729090000 +0800">
+		<title lang="zh">香港早晨及交通消息</title>
+	</programme>
+	<programme channel="无线新闻" start="20250729090000 +0800" stop="20250729093000 +0800">
+		<title lang="zh">新闻报道及中华掠影</title>
+	</programme>
+	<programme channel="无线新闻" start="20250729093000 +0800" stop="20250729100000 +0800">
+		<title lang="zh">开市第一击及新闻报道及三日天气预报</title>
+	</programme>
+	<programme channel="无线新闻" start="20250729100000 +0800" stop="20250729103000 +0800">
+		<title lang="zh">新闻报道及警声百二秒III及时事多面睇</title>
+	</programme>
+	<programme channel="无线新闻" start="20250729103000 +0800" stop="20250729104500 +0800">
+		<title lang="zh">新闻报道及世界观</title>
+	</programme>
+	<programme channel="无线新闻" start="20250729104500 +0800" stop="20250729110000 +0800">
+		<title lang="zh">新闻报道及环球新闻档案</title>
+	</programme>
+	<programme channel="无线新闻" start="20250729110000 +0800" stop="20250729113000 +0800">
+		<title lang="zh">新闻报道及新闻档案</title>
+	</programme>
+	<programme channel="无线新闻" start="20250729113000 +0800" stop="20250729120000 +0800">
+		<title lang="zh">新闻报道及有理说得清及三日天气预报及时事通识</title>
+	</programme>
+	<programme channel="无线新闻" start="20250729120000 +0800" stop="20250729123000 +0800">
+		<title lang="zh">午间新闻及警声百二秒III</title>
+	</programme>
+	<programme channel="无线新闻" start="20250729123000 +0800" stop="20250729130000 +0800">
+		<title lang="zh">午间新闻及时事多面睇</title>
+	</programme>
+	<programme channel="无线新闻" start="20250729130000 +0800" stop="20250729133000 +0800">
+		<title lang="zh">新闻报道及中华掠影及时事通识</title>
+	</programme>
+	<programme channel="无线新闻" start="20250729133000 +0800" stop="20250729140000 +0800">
+		<title lang="zh">新闻报道及三日天气预报</title>
+	</programme>
+	<programme channel="无线新闻" start="20250729140000 +0800" stop="20250729143000 +0800">
+		<title lang="zh">新闻报道及周游东涌及新闻档案</title>
+	</programme>
+	<programme channel="无线新闻" start="20250729143000 +0800" stop="20250729150000 +0800">
+		<title lang="zh">新闻报道及世界观</title>
+	</programme>
+	<programme channel="无线新闻" start="20250729150000 +0800" stop="20250729153000 +0800">
+		<title lang="zh">新闻报道及深港沪快讯及环球新闻档案</title>
+	</programme>
+	<programme channel="无线新闻" start="20250729153000 +0800" stop="20250729160000 +0800">
+		<title lang="zh">新闻报道及有理说得清及三日天气预报</title>
+	</programme>
+	<programme channel="无线新闻" start="20250729160000 +0800" stop="20250729163000 +0800">
+		<title lang="zh">新闻报道及世界观</title>
+	</programme>
+	<programme channel="无线新闻" start="20250729163000 +0800" stop="20250729170000 +0800">
+		<title lang="zh">新闻报道及中华掠影</title>
+	</programme>
+	<programme channel="无线新闻" start="20250729170000 +0800" stop="20250729173000 +0800">
+		<title lang="zh">新闻报道及新闻档案</title>
+	</programme>
+	<programme channel="无线新闻" start="20250729173000 +0800" stop="20250729180000 +0800">
+		<title lang="zh">新闻报道及交通消息及三日天气预报</title>
+	</programme>
+	<programme channel="无线新闻" start="20250729180000 +0800" stop="20250729183000 +0800">
+		<title lang="zh">新闻报道及交通消息及时事通识</title>
+	</programme>
+	<programme channel="无线新闻" start="20250729183000 +0800" stop="20250729190000 +0800">
+		<title lang="zh">新闻报道及周游东涌</title>
+	</programme>
+	<programme channel="无线新闻" start="20250729190000 +0800" stop="20250729193000 +0800">
+		<title lang="zh">新闻报道</title>
+	</programme>
+	<programme channel="无线新闻" start="20250729193000 +0800" stop="20250729200000 +0800">
+		<title lang="zh">无线730一小时新闻</title>
+	</programme>
+	<programme channel="无线新闻" start="20250729200000 +0800" stop="20250729203000 +0800">
+		<title lang="zh">时事中国及无线730一小时新闻及天气报告</title>
+	</programme>
+	<programme channel="无线新闻" start="20250729203000 +0800" stop="20250729210000 +0800">
+		<title lang="zh">新闻报道及世界观</title>
+	</programme>
+	<programme channel="无线新闻" start="20250729210000 +0800" stop="20250729212000 +0800">
+		<title lang="zh">新闻报道及大国外交及新闻档案</title>
+	</programme>
+	<programme channel="无线新闻" start="20250729212000 +0800" stop="20250729213000 +0800">
+		<title lang="zh">富途证券特约牛牛讲美股</title>
+	</programme>
+	<programme channel="无线新闻" start="20250729213000 +0800" stop="20250729214500 +0800">
+		<title lang="zh">时事多面睇及周游东涌</title>
+	</programme>
+	<programme channel="无线新闻" start="20250729214500 +0800" stop="20250729220000 +0800">
+		<title lang="zh">新闻报道及天气报告及警声百二秒III及环球新闻档案</title>
+	</programme>
+	<programme channel="无线新闻" start="20250729220000 +0800" stop="20250729223000 +0800">
+		<title lang="zh">新闻报道及大国外交及时事通识</title>
+	</programme>
+	<programme channel="无线新闻" start="20250729223000 +0800" stop="20250729230000 +0800">
+		<title lang="zh">新闻报道及世界观及财经多国度及三日天气预报</title>
+	</programme>
+	<programme channel="无线新闻" start="20250729230000 +0800" stop="20250729233000 +0800">
+		<title lang="zh">晚间新闻及有理说得清及大国外交</title>
+	</programme>
+	<programme channel="无线新闻" start="20250729233000 +0800" stop="20250729235900 +0800">
+		<title lang="zh">晚间新闻及时事通识</title>
+	</programme>
 	<channel id="汕头综合">
 		<display-name lang="zh">汕头综合</display-name>
 	</channel>
