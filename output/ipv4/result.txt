@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-08-03 18:15:14,http://satellitepull.cnr.cn/live/wxszws/playlist.m3u8
+2025-08-04 06:14:23,http://satellitepull.cnr.cn/live/wxszws/playlist.m3u8
 
 ☘️广东频道,#genre#
 深圳卫视,http://satellitepull.cnr.cn/live/wxszws/playlist.m3u8
